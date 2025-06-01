@@ -1,0 +1,15 @@
+pandas
+nltk
+matplotlib
+seaborn
+datasets
+transformers
+scikit-learn
+faiss-cpu
+langchain
+langchain-community
+langchain-huggingface
+ragas
+sentence-transformers
+spacy
+tqdm

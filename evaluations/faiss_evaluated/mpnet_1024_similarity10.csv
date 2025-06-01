@@ -1,0 +1,25 @@
+question,non_llm_context_precision_with_reference,non_llm_context_recall
+¿Quién es Joaquín Sabina?,0'5,1'0
+¿Cuando nació Juan Eslava Galán?,0'5,1'0
+¿Cuál es la formación de Maite Martín Valdivia?,0'0,0'0
+Dame un resumen de la Leyenda del Lagarto de la Malena,0'0,0'0
+¿Cuando sale la procesión del Abuelo?,0'0,0'0
+¿Qué lleva el ochío?,0'0,0'0
+¿En qué equipos ha jugado Imanol Alguacil?,1'0,1'0
+¿En qué categoría juega el equipo de fútbol de Torredonjimeno?,0'5,1'0
+¿Cómo se llama el estadio del equipo de fútbol sala de Jaén?,0'0,0'0
+¿Cuando se prevé que acabarán las obras del CETEDEX?,0'14286,1'0
+¿A qué se dedica la empresa Doña Jimena?,1'0,1'0
+¿Qué es el Expoliva?,0'25,1'0
+¿Cuántos habitantes tiene Santiago de Calatrava?,0'0,0'0
+¿Qué animales se pueden encontrar en Despeñaperros?,0'0,0'0
+¿Cuál es la longitud del río Cambil?,1'0,1'0
+Cuéntame la historia del tesoro de Torredonjimeno,1'0,1'0
+¿Por qué se libró la batalla de Bailén?,0'16667,1'0
+¿Qué representa el Mosaico de los Amores?,0'0,0'0
+¿Dónde puede crecer la Viola cazorlensis?,1'0,1'0
+¿Cuánto pesa una serrana?,0'11111,1'0
+¿Cuál es la altura de Jabalcuz?,1'0,1'0
+¿Cómo está organizado el Pleno de Jaén?,0'14286,1'0
+¿Qué localidades constituyen el inicio y fin de la A-44?,0'0,0'0
+¿Qué línea de tren debería coger para ir desde Jaén a Madrid?,0'0,0'0

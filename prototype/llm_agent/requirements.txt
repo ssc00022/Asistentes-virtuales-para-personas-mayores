@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+aiofiles
+whisper
+edge-tts
+langchain
+langgraph
+sentence-transformers
+faiss-cpu
+json-repair
+pyngrok
+requests
+langfuse

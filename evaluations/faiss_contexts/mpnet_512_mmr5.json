@@ -1,0 +1,1472 @@
+{
+    "test_1": {
+        "question": "¿Quién es Joaquín Sabina?",
+        "query": "¿Quién es Joaquín Sabina?",
+        "id_context": 64,
+        "retrieved_contexts": [
+            {
+                "content": "Biografía Primeros años Joaquín Sabina nació el 12 de febrero de 1949 en el municipio de Úbeda (Jaén, España), segundo hijo de Adela Sabina del Campo, ama de casa y de Jerónimo Martínez Gallego, inspector de policía.​ Cursó sus estudios primarios con las monjas carmelitas y con catorce años comenzó a escribir poemas y a componer música en una banda formada con sus amigos llamada Merry Youngs, que se dedicaban sobre todo a versionar a cantantes de rock como Elvis Presley, Chuck Berry o Little Richard.​ Por esa época, tuvo a su primera novia, Virtudes Antero «Chispa», que le sirvió como inspiración para crear algunos poemas de amor.",
+                "metadata": {
+                    "id": 64,
+                    "title": "Joaquín Sabina",
+                    "categories": "['Nacidos en Úbeda', 'Escritores de la provincia de Jaén', 'Poetas de la provincia de Jaén', 'Músicos de la provincia de Jaén', 'Cantantes de la provincia de Jaén', 'Pintores de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "En el ámbito audiovisual ha dirigido la película Septiembre y cortometrajes galardonados como Stanbrook, Mamá y Animal. Fue ayudante de dirección en el documental Miguel Picazo, un cineasta extramuros (2016), dirigido por Enrique Iznaola.​ Como actor lo hemos visto en los largometrajes como 12 días de mierda, Salpicados por el desastre, La Ama y Caníbal. Filmografía como actor Largometrajes Caníbal, (2013), dirigido por Manuel Martín Cuenca.",
+                "metadata": {
+                    "id": 604,
+                    "title": "Carlos Aceituno",
+                    "categories": "['Nacidos en Jaén']"
+                }
+            },
+            {
+                "content": "Antonio Luis Díaz Sánchez más conocido como Hugo Díaz (Almodóvar del Río, provincia de Córdoba, 9 de febrero de 1988), es un futbolista español. Actualmente juega en el Linares Deportivo. Es hermano del también futbolista Pepe Díaz Sánchez. En la actualidad es uno de los delanteros con más experiencia de la 1°RFEF.",
+                "metadata": {
+                    "id": 1706,
+                    "title": "Antonio Luis Díaz Sánchez",
+                    "categories": "['Futbolistas del Real Jaén Club de Fútbol', 'Futbolistas del Linares Deportivo']"
+                }
+            },
+            {
+                "content": "El escándalo fue mayor cuando se conoció una carta que el mismo Joaquín Sabina le había escrito a Fito Páez en forma de poesía, donde resumía los motivos que determinaron el final de su relación laboral: «El rol del patito feo, no me va te lo aseguro, y menos el de hombre duro, que a ti te cuesta tan poco» recitaba Joaquín en la mencionada carta.​ Joaquín hizo una gira en solitario por teatros llamada Sabina, viuda e hijos en paños menores, de importante éxito y que destacó por la gran duración de los recitales, que llegaban a las tres horas.",
+                "metadata": {
+                    "id": 64,
+                    "title": "Joaquín Sabina",
+                    "categories": "['Nacidos en Úbeda', 'Escritores de la provincia de Jaén', 'Poetas de la provincia de Jaén', 'Músicos de la provincia de Jaén', 'Cantantes de la provincia de Jaén', 'Pintores de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Santiago Rodríguez Ramiro (Jaén,​ 27 de julio de 1965), más conocido como Santi Rodríguez, es un actor y showman español​ famoso por interpretar al frutero de la serie de televisión de Telecinco Siete vidas, personaje que propulsó su carrera y le hizo conocido entre el gran público.​ Biografía Nació en Málaga aunque a los pocos meses se traslada a Jaén, ciudad en la que reside actualmente El éxito le vino, tras participar en El club de la comedia y ser colaborador de La noche... con Fuentes y cía, al entrar en la serie 7 vidas con su papel de \"El frutero\".",
+                "metadata": {
+                    "id": 8,
+                    "title": "Santi Rodríguez",
+                    "categories": "['Actores de la provincia de Jaén', 'Personas de la provincia de Jaén']"
+                }
+            }
+        ],
+        "reference": "Joaquín Sabina es un cantautor y poeta de Úbeda, Jaén. Es conocido por algunas de sus canciones más famosas como '19 Días y 500 Noches', o 'Y nos dieron las diez'.",
+        "reference_contexts": "Joaquín Ramón Martínez Sabina (Úbeda, 12 de febrero de 1949), conocido como Joaquín Sabina, es un cantautor, poeta y pintor español​. Ha publicado diecisiete discos de estudio y siete en directo, y ha colaborado con distintos artistas cantando dúos y realizando otras colaboraciones."
+    },
+    "test_2": {
+        "question": "¿Cuando nació Juan Eslava Galán?",
+        "query": "¿Cuando nació Juan Eslava Galán?",
+        "id_context": 838,
+        "retrieved_contexts": [
+            {
+                "content": "Su hijo Juan declaró en un proceso el 5 de junio de 1611 tener \"29 años poco más o menos\", por lo que debió nacer hacia 1581-1582.​ Hay un Alonso de Vandelvira que declaró en el mismo proceso tener 14 años, por lo que seguramente sea un hijo de este arquitecto que habría nacido en Sevilla hacia 1597 y que habría ejercido como sacerdote en la Parroquia del Sagrario de Sevilla entre 1637 y 1646.​ Tuvo también una hija llamada Luisa, nacida según el historiador Ginés Torres Navarrete en 1580, que se casó en Sabiote en 1605 con Luis de Carmona del Villar, natural de Torreperogil, a donde el matrimonio se trasladó posteriormente.​ Del matrimonio entre Luisa y Luis nacieron dos hijos: Luis y Gregorio.​ Entre 1580 y 1581 fue alcalde ordinario de Sabiote, ejerciendo funciones judiciales en asuntos civiles.​ En 1583 pasó a ser depositario del pósito de Sabiote, donde se guardaban excedentes agrarios.",
+                "metadata": {
+                    "id": 825,
+                    "title": "Alonso de Vandelvira",
+                    "categories": "['Nacidos en Úbeda']"
+                }
+            },
+            {
+                "content": "Juan Eslava Galán (Arjona, Jaén, 7 de marzo de 1948) es un escritor español del género histórico, tanto de ficción como de no ficción. Saltó a la popularidad con la obtención del Premio Planeta en 1987. Ha publicado algunas novelas bajo el pseudónimo de Nicholas Wilcox. Biografía Hijo de olivareros, estudió en los colegios de Arjona hasta que, al cumplir los diez años, su familia se trasladó a Jaén, donde prosiguió el bachillerato.",
+                "metadata": {
+                    "id": 845,
+                    "title": "Juan Eslava Galán",
+                    "categories": "['Nacidos en Arjona']"
+                }
+            },
+            {
+                "content": "Su apellido real era Galbán, pero lo italianizó por Galvany cuando decidió dedicarse a la lírica. Biografía María nace a las cinco y media de la mañana en la calle de la Zambra en la localidad jienense de Mancha Real, donde su padre, Juan Galván, era notario; pero apenas cumplidos dos años la niña va a vivir a Pinos Puente (Granada), lugar de residencia de sus abuelos maternos debido a que su padre muere repentinamente el 28 de marzo de 1879 de congestión pulmonar a la edad de cuarenta y nueve años.",
+                "metadata": {
+                    "id": 106,
+                    "title": "María Galvany",
+                    "categories": "['Nacidos en Mancha Real', 'Músicos de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Dicho de otra forma, Fausto Olivares no pinta la soleá, sino que pinta por soleá. \"​ Cronología 1940-1995 1940 Fausto OLIVARES nace el 5 de noviembre en la Cuesta San Miguel de Jaén. Escuela de D. Manuel Moya. Muy joven, se inicia al dibujo y comienza su aprendizaje con D. Enrique Barrios. Más tarde, con D. Francisco Cerezo se inicia a la pintura.",
+                "metadata": {
+                    "id": 145,
+                    "title": "Fausto Olivares",
+                    "categories": "['Nacidos en Jaén', 'Pintores de Jaén']"
+                }
+            },
+            {
+                "content": "A partir de entonces no existen más datos sobre su trayectoria. Desconocemos la fecha y las circunstancias de su muerte (que debió ocurrir antes de 1542). Solo de manera indirecta sabemos que al ocurrir su deceso se hallaba en Arequipa y que dejó una viuda de nombre Leonor.",
+                "metadata": {
+                    "id": 261,
+                    "title": "Cristóbal de Peralta",
+                    "categories": "['Nacidos en Baeza', 'Militares de la provincia de Jaén']"
+                }
+            }
+        ],
+        "reference": "Juan Eslava Galán nació el 7 de marzo de 1948 en Arjona, Jaén.",
+        "reference_contexts": "Juan Eslava Galán (Arjona, Jaén, 7 de marzo de 1948) es un escritor español del género histórico, tanto de ficción como de no ficción. Saltó a la popularidad con la obtención del Premio Planeta en 1987. Ha publicado algunas novelas bajo el pseudónimo de Nicholas Wilcox. Biografía Hijo de olivareros, estudió en los colegios de Arjona hasta que, al cumplir los diez años, su familia se trasladó a Jaén, donde prosiguió el bachillerato."
+    },
+    "test_3": {
+        "question": "¿Cuál es la formación de Maite Martín Valdivia?",
+        "query": "¿Cuál es la formación de Maite Martín Valdivia?",
+        "id_context": 652,
+        "retrieved_contexts": [
+            {
+                "content": "Juan Pascual Valdivia y Valenzuela (Alcalá la Real, c. 1737 - Olivares, 12 de marzo de 1811) fue un compositor y maestro de capilla español.​ Vida Juan Pascual Valdivia y Valenzuela nació en Alcalá la Real, en la provincia de Jaén, hijo de Gregorio Valenzuela y Valdivia y Ana Valdivia, hacia 1735 o 1737.​ La fecha de su nacimiento se calcula por su ordenación de sacerdote en 1762. En ese momento la edad mínima para ordenarse era de 25 años, por lo que debió nacer hacia 1737 o poco antes.",
+                "metadata": {
+                    "id": 497,
+                    "title": "Juan Pascual Valdivia y Valenzuela",
+                    "categories": "['Nacidos en Alcalá la Real']"
+                }
+            },
+            {
+                "content": "Sra. y en santuario de la Fuensanta.",
+                "metadata": {
+                    "id": 2143,
+                    "title": "Santuario de Nuestra Señora de la Fuensanta (Huelma)",
+                    "categories": "['Huelma']"
+                }
+            },
+            {
+                "content": "Protagoniza con gran éxito Las Leandras desde 1978 y consigue cierto prestigio como actriz o productora de Doña Mariquita de mi corazón (1985), Ya tenemos chica (1991), Mariquilla Terremoto (1996), Ventolera (1999) y El baile, de Edgar Neville (2001).​ En televisión ha participado en las series Eva a las diez, La comedia musical española, Ay, Señor, Señor y Cuéntame cómo pasó. Apareció en la serie de Telecinco La que se avecina interpretándose a sí misma en un capítulo de la cuarta temporada.",
+                "metadata": {
+                    "id": 22,
+                    "title": "María José Cantudo",
+                    "categories": "['Nacidos en Andújar', 'Actores de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "La imagen de Jesús Cautivo de Medinaceli que se venera en la parroquia de Sta. Mª Micaela de Melilla siempre se dijo que era de un autor anónimo de la Escuela Malagueña, realizada en la segunda mitad de los años cuarenta del pasado siglo. Cuando la imagen llegó a Melilla en 1949, en la nota de prensa de la época no se hacía constar autoría alguna, y eso siempre le dio cierto halo de misterio. En aquellos años estaba en el final de su actividad escultórica e imaginera el insigne artista José Navas Parejo.",
+                "metadata": {
+                    "id": 978,
+                    "title": "José Navas-Parejo",
+                    "categories": "['Artistas relacionados con la Semana Santa en Jaén']"
+                }
+            },
+            {
+                "content": "Casilda Medina Conradi es la actual marquesa de Solera. Bibliografía Fundación Medinaceli: Sucesión del Señorío y Marquesado de Solera. Genealogía de los Condes y Duques de Santisteban del Puerto, Señores y Marqueses de Solera",
+                "metadata": {
+                    "id": 791,
+                    "title": "Marquesado de Solera",
+                    "categories": "['Títulos nobiliarios de la provincia de Jaén', 'Casa de la Cueva (Úbeda)']"
+                }
+            }
+        ],
+        "reference": "Maite Martín Valdivia consiguió la diplomatura en Informática por la Universidad de Granada en 1990. Más tarde, en 1992, obtuvo la licenciatura en Informática en la misma universidad, realizando más tarde su tesis doctoral en la Universidad de Málaga.",
+        "reference_contexts": "María Teresa (ó Maite) Martín Valdivia (Jaén) es doctora en informática. Desde 1995 trabaja en la Universidad de Jaén como profesora del área de Lenguajes y Sistemas Informáticos del Departamento de Informática. Desde 2019 es catedrática de universidad. Forma parte del equipo de investigación SINAI (Sistemas Inteligentes de Acceso a la Información) desde su creación en 2001.​ Su área de especialización es el Procesamiento del Lenguaje Natural, y en la actualidad investiga dentro de los temas de análisis de opiniones y emociones, minería de textos, aprendizaje automático y búsqueda y recuperación de información en biomedicina. Biografía Se diplomó (1990) y licenció (1992) en Informática en la Universidad de Granada. Realizó su tesis doctoral en Informática en la Universidad de Málaga Desde 2007 es miembro del Consejo Asesor de la Sociedad Española para el Procesamiento del Lenguaje Natural (SEPLN), en cuya Junta Directiva fue tesorera desde 2007 hasta 2019.​​ Fue directora del Secretariado de Investigación de la Universidad de Jaén del 27 de noviembre de 2017 al 29 de abril de 2019."
+    },
+    "test_4": {
+        "question": "Dame un resumen de la Leyenda del Lagarto de la Malena",
+        "query": "Dame un resumen de la Leyenda del Lagarto de la Malena",
+        "id_context": 942,
+        "retrieved_contexts": [
+            {
+                "content": "Normalmente se habla de una división en tres partes. La primera parte abarca las catorce primeras estrofas y consiste en una introducción en tono moralizante sobre el escaso valor de la vida terrenal, la muerte y su omnipotencia. En la segunda parte, de la estrofa quince a la veinticuatro, se menciona la muerte de personajes ilustres de un pasado reciente y cercano.",
+                "metadata": {
+                    "id": 6,
+                    "title": "Jorge Manrique",
+                    "categories": "['Personas de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Sus argumentos son sencillos. Destacan La industria vence desdenes,​ con una fábula intercalada de Apolo y Dafne y El esclavo de su esclavo, en el que la hermosa Matilde recobra su libertad por la generosidad de Audallá.​ Trata de probar, desde una ética aristotélica, los peligros que puede provocar el excesivo recato de las mujeres. Así uno de los personajes de La industria, dirá un conocido refrán: \"El humo y la mujer brava echan al hombre de su casa.",
+                "metadata": {
+                    "id": 620,
+                    "title": "Mariana de Carvajal y Saavedra",
+                    "categories": "['Nacidos en Jaén']"
+                }
+            },
+            {
+                "content": "En su interior su única nave se cubre con bóveda de cañón con lunetos y, los brazos del crucero, con media naranja.​ Construcción primitiva “Son las dichas monjas, de presente, número de nueve monjas e llevan de dote las monjas que han recibido a cuatrocientos o quinientos ducados. Tienen congrua sustentación, porque tienen un cortijo que les renta cien fanegas de trigo y doscientos o trescientos ducados de renta.",
+                "metadata": {
+                    "id": 1143,
+                    "title": "Convento de Carmelitas Descalzas (Beas de Segura)",
+                    "categories": "['Conventos y monasterios de la provincia de Jaén', 'Monumentos de la provincia de Jaén', 'Beas de Segura', 'Bienes de interés cultural de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Obras Tomvs primvs in Ezechielem. Explanationes et Commentaria in priora sex et viginti capita, Roma, typographia Aloysij Zannetti, 1596; “Compendio de la Segunda Parte de los Comentarios sobre el propheta Ezechiel”, en El Templo de Salomón, (edición facsímil) Madrid, Siruela, 1991 (el original se encuentra en The Houghton Library Harvard University). Commentaria in Esaiam, 1585 (Biblioteca Nacional de España, ms 508). Commentaria in Epistolas Pauli ad Haebreos, 1587 (Biblioteca Nacional de España, ms.",
+                "metadata": {
+                    "id": 558,
+                    "title": "Jerónimo de Prado",
+                    "categories": "['Nacidos en Baeza']"
+                }
+            },
+            {
+                "content": "Están repletas de descripciones detalladas del vestuario, etiqueta social, rangos aristocráticos y las costumbres de la vida cotidiana del Barroco. Hay una preocupación constante por el dinero, así la dote es un tema recurrente. En la novela segunda, La dicha de Doristea, todos los personajes son descritos por sus títulos nobiliarios y posesiones.​ También escribió obra dramática cuya existencia conocemos por el prólogo de sus Navidades en Madrid aunque no conocemos su título.​",
+                "metadata": {
+                    "id": 620,
+                    "title": "Mariana de Carvajal y Saavedra",
+                    "categories": "['Nacidos en Jaén']"
+                }
+            }
+        ],
+        "reference": "Aunque existen varias versiones, la más aceptada es la siguiente: \"En el barrio de la magdalena había un temible lagarto que atacaba a todas las personas que pasaban por allí a por agua, pues Jaén es muy rica en agua. Los ciudadanos ya estaban hartos y pidieron al rey que enviase a alguien a combatir contra el lagarto. Un preso que estaba condenado se ofreció a cambio de que le liberasen. Pidió la piel de una oveja, pólvora, panes y un caballo. Fue hacía el raudal y empezó a tirarle los panes al enorme lagarto. llegó a una calle sin salida y le tiro la oveja con la pólvora dentro. El lagarto se la tragó. Al cabo de unos minutos explotó y el preso retomó su libertad.\"",
+        "reference_contexts": "Según el mito, cuya primera referencia escrita data de 1628, en una cueva junto a la fuente de la Magdalena apareció un lagarto de grandes dimensiones (Gran Sierpe o Dragón), que atemorizaba a la gente y (dependiendo de la versión) se comía a quien iba a por agua o a las ovejas de los alrededores. Los vecinos de la Magdalena, asustados, no se atrevían a salir al manantial, por lo que buscaron una solución al problema del lagarto. En este punto, la leyenda se diversifica, habiendo tres versiones distintas de la muerte del reptil: El preso y los panes Un preso condenado a muerte solicitó su libertad a cambio de matar al lagarto. Tal era la desesperación de los vecinos que se le concedió la oportunidad de intentarlo. Para ello, solicitó un caballo, un costal de panes calientes y un saco con pólvora. Por la noche, el preso se presentó junto a la cueva y fue dejando una hilera de panes. El animal se despertó y se los fue comiendo tras el preso, que continuaba lanzando panes mientras huía a caballo. Al llegar a la plaza de San Ildefonso, en lugar de un pan le lanzó el saco de pólvora, que el animal devoró del mismo modo y, acto seguido, explotó."
+    },
+    "test_5": {
+        "question": "¿Cuando sale la procesión del Abuelo?",
+        "query": "¿Cuando sale la procesión del Abuelo?",
+        "id_context": 994,
+        "retrieved_contexts": [
+            {
+                "content": "Monta cruz de mayo y organiza procesión infantil. El tríduo a sus Titulares es en plena Cuaresma.",
+                "metadata": {
+                    "id": 1392,
+                    "title": "Hermandad de la Oración en el Huerto (Andújar)",
+                    "categories": "['Cofradías de Semana Santa de Andújar']"
+                }
+            },
+            {
+                "content": "Es una tradición que se remonta a tiempo inmemorial. Las fiestas dan comienzo el 22 de abril por la noche con el tradicional pregón de San Marcos y posteriormente los fuegos artificiales. El 23 de abril por la tarde, suelta de reses, que se conoce como San Marcos chico. El 24 de abril por la tarde, nueva suelta de reses y el 25 de abril de madrugada Diana por las calles del pueblo; después suelta de reses, cascado y engalanamiento de las mismas.",
+                "metadata": {
+                    "id": 1386,
+                    "title": "Toro ensogado de Beas de Segura",
+                    "categories": "['Fiestas de la provincia de Jaén', 'Beas de Segura']"
+                }
+            },
+            {
+                "content": "Como curiosidad, se incluye en el articulado la regulación del cuerpo de veintiún soldados romanos que desfilaban con el cortejo y la presencia de las dos bandas de música de la localidad.​ A principios del siglo XX, la procesión salía a las tres de la tarde.​ En 1932, y dado el ambiente de inestabilidad social, las hermandades de Andújar deciden no procesionar en Semana Santa y la Hermandad de las Angustias recupera su procesión claustral.​ No queda claro cuándo pasa a ocupar la imagen el lujoso camarín barroco de la capilla mayor: se ha apuntado que fuera a mediados del siglo XVIII al reformarse el templo,​ aunque en los estatutos de finales del XIX aún se habla del “altar de Nuestra Señora de las Angustias”.​ La imagen se salvó en la Guerra Civil porque las monjas usaron la iglesia para atender a los ancianos del asilo.​ La Hermandad se restablece en 1940, celebra su primer cabildo en 1943 y su primer desfile procesional al año siguiente.​ A partir de ese momento se instaura la hora de salida a las seis de la tarde, siendo una cita ineludible para el mundo cofrade de Andújar.​ En 1991 vuelve a renovar estatutos e inicia un proceso de transformación, aunque sin desligarse del pasado como es el hecho de portar en su estación penitencial el antiguo pendón propio de las cofradías pasionistas de Andújar.​ En el año 2004 se crea la agrupación musical “Nuestra Señora de las Angustias”, dirigida por Raúl Prieto Santos.​ En la última reforma de estatutos ha modificado sus títulos, ha intitulado como Santísimo Cristo de la Caridad a la imagen de Jesús Yacente que está en el regazo de su Madre (recogiendo así la Hermandad el antiguo nombre del Hospital) y ha incluido una reliquia del Santo Lignum Crucis como Titular.",
+                "metadata": {
+                    "id": 1396,
+                    "title": "Hermandad de las Angustias (Andújar)",
+                    "categories": "['Cofradías de Semana Santa de Andújar']"
+                }
+            },
+            {
+                "content": "Es una Procesión Magna organizada por la diócesis de Jaén con motivo del Jubileo de 2025. Tendrá lugar en la ciudad de Jaén, el próximo 4 de octubre de 2025. Se representarán los veinte misterios del Santo Rosario, mediante veinte imágenes titulares de cofradías y hermandades de la diócesis.",
+                "metadata": {
+                    "id": 966,
+                    "title": "Procesión Magna de 2025 en Jaén",
+                    "categories": "['Semana Santa en Jaén', 'Diócesis de Jaén']"
+                }
+            },
+            {
+                "content": "Realiza su salida procesional durante la Semana Santa jiennense, en la tarde del Miércoles Santo. Historia Se fundó en 1952 y realizó su primera salida procesional en la tarde del Domingo de Ramos de 1954, hasta 1980 que cambió a la tarde del Miércoles Santo.",
+                "metadata": {
+                    "id": 994,
+                    "title": "Cofradía del Perdón (Jaén)",
+                    "categories": "['Cofradías de Semana Santa de Jaén']"
+                }
+            }
+        ],
+        "reference": "La procesión de \"El Abuelo\" sale a las calles el Viernes Santo, puesto que es una marcha que representa a Jesucristo llevando la cruz.",
+        "reference_contexts": "La marcha fue compuesta expresamente para Nuestro Padre Jesús Nazareno, conocido popularmente como \\\"El Abuelo\\\", perteneciente a la Antigua, Insigne y Real Cofradía de Nuestro Padre Jesús Nazareno y María Santísima de los Dolores de Jaén. Esta especial dedicación de la marcha a esta talla, que goza de una gran devoción, quedó reflejado cuando el autor decidió incluir parte del Himno a Jaén en la propia marcha. En otras provincias como en Málaga es muy común que se toque en honor a Nuestro Padre Jesús Nazareno, así ocurre en Almogía, donde se toca en honor al sagrado titular de la Hermandad de Culto y Procesión de Nuestro Padre Jesús Nazareno, conocido también como \\\"El Nuestro Padre\\\". Igualmente ocurre en Alhaurín el Grande, donde la Banda de Música de la Real Hermandad de Nuestro Padre Jesús Nazareno la toca en honor a \\\"Nuestro Padre Jesús\\\", mientras los portadores de su trono de procesión lo depositan en el suelo y cantan alrededor del mismo el Himno a Nuestro Padre Jesús Nazareno, letra compuesta por Loli Romero. Composición Siendo Emilio Cebrián Ruiz director de la Banda Municipal de Jaén desde 1932 al haber ganado el concurso oposición celebrado al quedar vacante la plaza, el fabricano del paso de Nuestro Padre Jesús Nazareno de Jaén, D. Antonio Delgado, le pidió que compusiera una marcha procesional para el Señor, pues hasta ese momento durante la procesión tan sólo se interpretaban las marchas \\\"Pobre Carmen\\\" y \\\"España llora\\\". El Viernes Santo de 1934, durante el trascurso de la procesión, el maestro Emilio Cebrián Ruiz abandonó momentáneamente su condición de director de la Banda Municipal para portar el paso de Nuestro Padre Jesús desde el “Cantón de la Ropa Vieja” al “Campillejo de Santiago”."
+    },
+    "test_6": {
+        "question": "¿Qué lleva el ochío?",
+        "query": "¿Qué lleva el ochío?",
+        "id_context": 1435,
+        "retrieved_contexts": [
+            {
+                "content": "En esta faceta.",
+                "metadata": {
+                    "id": 67,
+                    "title": "Manuel Urbano Pérez Ortega",
+                    "categories": "['Escritores de la provincia de Jaén', 'Nacidos en Jaén', 'Nacidos en Alcalá la Real']"
+                }
+            },
+            {
+                "content": "El día 8 de diciembre, es el tradicional Día del Hoyo y se reparten miles de hoyos, que es un plato típico de los aceituneros, hecho de pan, aceite, bacalao y aceitunas.​ Semana Santa de Martos. Se trata de una de las manifestaciones culturales y populares más reconocidas tanto a nivel provincial como autonómico.",
+                "metadata": {
+                    "id": 2030,
+                    "title": "Martos",
+                    "categories": "['Martos']"
+                }
+            },
+            {
+                "content": "De ellos, cuatro cuentan con cuatro estrellas y cinco con tres estrellas; en cuanto a los hostales, dos cuentan con dos estrellas y cuatro con una estrella.",
+                "metadata": {
+                    "id": 1981,
+                    "title": "Jaén",
+                    "categories": "['Jaén', 'Localidades de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Diez varales sujetan el techo de palio, en el que se halla una gloria con el motivo de la Cruz Desnuda. Las bambalinas tienen forma de cajón, la delantera contiene la tiara pontificia y la trasera el escudo de la reina Isabel II; los laterales se rematan con flores (rosas, azucenas, espigas y lirios).",
+                "metadata": {
+                    "id": 999,
+                    "title": "Cofradía de la Soledad (Jaén)",
+                    "categories": "['Basílica de san Ildefonso', 'Cofradías de Semana Santa de Jaén']"
+                }
+            },
+            {
+                "content": "Luego se hacían las hacinas, que eran los montones donde se colocaban los haces y, por último, se trillaba. Para trillar se empezaba por echar la parva, que consistía en desatar los haces y echarlos extendidos por toda la era. Luego se enganchaban las bestias al trillo y... ¡a trillar!. Y después se tornaba con la horca para dar la vuelta a la parva y que todo quedase bien trillado. Cultura Patrimonio inmaterial El ocho de Torres. Se celebra el ocho de mayo una fiesta en honor de la Virgen del Campo.",
+                "metadata": {
+                    "id": 2230,
+                    "title": "Torres de Albanchez",
+                    "categories": "['Torres de Albanchez']"
+                }
+            }
+        ],
+        "reference": "El ochío está hecho con pan de aceite de oliva virgen extra, pimentón y anís. Es un plato tradicional de Úbeda, Jaén.",
+        "reference_contexts": "El ochío​ —a veces también escrito hochío—​ es un producto de panadería tradicional típico de Ubeda en la provincia de Jaén aunque se puede encontrar en otras ciudades de Andalucía; especialmente de la comarca de la Loma, aunque también en la comarca metropolitana de Jaén pero aquí elaborado de otra manera. Consiste en un pan de aceite de oliva virgen extra, pimentón y anís. El nombre le viene dado por ser la octava parte de la masa de un pan."
+    },
+    "test_7": {
+        "question": "¿En qué equipos ha jugado Imanol Alguacil?",
+        "query": "¿En qué equipos ha jugado Imanol Alguacil?",
+        "id_context": 1661,
+        "retrieved_contexts": [
+            {
+                "content": "Con estos dos equipos disputó un total de 121 partidos en la Primera División de España a lo largo de 9 temporadas. Trayectoria como jugador Imanol Alguacil nació en 1971 en la localidad guipuzcoana de Orio. Imanol destacó como un lateral derecho de gran proyección ofensiva, lo que le permitía jugar también en el centro del campo. Fue un jugador habitual en la Real Sociedad a principios de los años 1990, pero nunca acabó de consolidarse del todo en el equipo y finalmente su carrera fue a menos.",
+                "metadata": {
+                    "id": 1669,
+                    "title": "Imanol Alguacil",
+                    "categories": "['Futbolistas del Real Jaén Club de Fútbol']"
+                }
+            },
+            {
+                "content": "Una calle de la ciudad, cerca de las instalaciones de La Albericia, lleva su nombre. Su hermano Antonio Alsúa también fue futbolista, jugó entre otros equipos, en el Real Madrid CF. Rafael Alsúa fue uno de los jugadores que los antiguos más recuerdan dentro de esas alineaciones que recitan de carrerilla. Este delantero, fallecido en el año 1993, fue un auténtico trotamundos del fútbol español, aunque el Real acing de Santander fue un conjunto especial para él.",
+                "metadata": {
+                    "id": 1671,
+                    "title": "Rafael Alsúa",
+                    "categories": "['Futbolistas del Real Jaén Club de Fútbol']"
+                }
+            },
+            {
+                "content": "También era entrenador de categorías inferiores. Un jugador de los ahora llamados todocampista, por su facilidad para ocupar las tres posiciones de la medular: Buen recuperador de balones y bajador como un pivote, buen distribuidor de juego como un mediocentro, y buen último pase con facilidad goleadora como un mediapunta. [cita requerida] Biografía Desde muy joven formó parte de las categorías inferiores del Club Deportivo Linares.",
+                "metadata": {
+                    "id": 190,
+                    "title": "Fran Carles",
+                    "categories": "['Futbolistas de la provincia de Jaén', 'Nacidos en Linares (Jaén)', 'Futbolistas del Linares Deportivo']"
+                }
+            },
+            {
+                "content": "A lo largo de su trayectoria deportiva, ha compartido vestuario con futbolistas de la talla de: Julen Guerrero, Aitor Larrazabal, Antonio Rueda, Juan José Valencia, o Ángel Lekumberri o Mikel Roteta entre otros. Tras colgar las botas en Úbeda, regresó a Jaén, e ingreso en el club como Delegado del equipo y ayudante de campo.",
+                "metadata": {
+                    "id": 1822,
+                    "title": "José Javier Gómez Somavilla",
+                    "categories": "['Futbolistas del Real Jaén Club de Fútbol']"
+                }
+            },
+            {
+                "content": "¡Lo hace a lo grande, marcando tres goles! En los siguientes siete encuentros este delantero nacido en Mondragón (Guipúzcoa) y que responde al nombre futbolístico de Arregui, ve puerta en cada uno de ellos: Tolosa, Cultural de Durango (2), Mirandés (3), Indauchu (3), Sestao, Erandio y Vasconia (2). ¡Racha de ocho jornadas consecutivas marcando con el Deportivo Alavés, que solamente es superada por Julio Elicegui –con nueve– en el Campeonato de Guipúzcoa de 1939.",
+                "metadata": {
+                    "id": 1626,
+                    "title": "Ángel María Arregui",
+                    "categories": "['Entrenadores del Real Jaén Club de Fútbol', 'Futbolistas del Real Jaén Club de Fútbol']"
+                }
+            }
+        ],
+        "reference": "Durante su etapa como jugador, Imanol Alguacil ha jugado en la Real Sociedad, en el Villarreal, en el Real Jaén, en el Cartagonova y en el Burgos.",
+        "reference_contexts": "Imanol Alguacil Barrenetxea (Orio, 4 de julio de 1971) es un exfutbolista y entrenador español que actualmente dirige al primer equipo de la Real Sociedad. Fue conocido futbolísticamente como Imanol.​ Jugó en el puesto de lateral derecho en la Real Sociedad y Villarreal CF a lo largo de la década de 1990. Con estos dos equipos disputó un total de 121 partidos en la Primera División de España a lo largo de 9 temporadas. Trayectoria como jugador Imanol Alguacil nació en 1971 en la localidad guipuzcoana de Orio. Imanol destacó como un lateral derecho de gran proyección ofensiva, lo que le permitía jugar también en el centro del campo. Fue un jugador habitual en la Real Sociedad a principios de los años 1990, pero nunca acabó de consolidarse del todo en el equipo y finalmente su carrera fue a menos. Fue integrante de la plantilla del Villarreal CF, que debutó en Primera división en la temporada 1998-99, y acabó jugando en varios equipos en Segunda y Segunda B antes de retirarse."
+    },
+    "test_8": {
+        "question": "¿En qué categoría juega el equipo de fútbol de Torredonjimeno?",
+        "query": "¿En qué categoría juega el equipo de fútbol de Torredonjimeno?",
+        "id_context": 1601,
+        "retrieved_contexts": [
+            {
+                "content": "La Unión Deportiva Ciudad de Torredonjimeno es un club de fútbol de la ciudad de Torredonjimeno, (Jaén) que en la actualidad compite en el Grupo IX de la Tercera División de España. Historia Fundación y primeros años La UDCT nació en 2009 para sustituir al histórico Torredonjimeno C. F., que había desaparecido ese mismo año debido a las deudas que arrastraba.",
+                "metadata": {
+                    "id": 1609,
+                    "title": "UD Ciudad de Torredonjimeno",
+                    "categories": "['Equipos de fútbol de la provincia de Jaén', 'Torredonjimeno']"
+                }
+            },
+            {
+                "content": "Palmarés Nota: en negrita competiciones vigentes en la actualidad. El club jiennense es uno de los más reconocidos a nivel nacional y regional por ostentar en su palmarés 12 títulos de nivel nacional, convirtiéndose así en el club andaluz con mayor palmarés nacional y uno de los 140 clubes que han ganado alguna una competición nacional. Torneos nacionales Torneos regionales Torneos amistosos principales Otros premios Trofeo Amberes (1): 1958. Premio Juego Limpio de la RFEF (1): 2016.",
+                "metadata": {
+                    "id": 1620,
+                    "title": "Real Jaén Club de Fútbol",
+                    "categories": "['Real Jaén Club de Fútbol']"
+                }
+            },
+            {
+                "content": "Aunque esto sea historia del equipo de fútbol de Torredonjimeno, destaca el hecho de que se nombre a Arregui en otros clubes. Selección nacional El 8 de noviembre de 1953, fue convocado por la selección española, cuando el Jaén estaba aún en Segunda División, para jugar un partido amistoso frente a la selección de fútbol de Suecia en un partido celebrado en Bilbao en el estadio de San Mamés, aunque no debutó con la selección.",
+                "metadata": {
+                    "id": 1626,
+                    "title": "Ángel María Arregui",
+                    "categories": "['Entrenadores del Real Jaén Club de Fútbol', 'Futbolistas del Real Jaén Club de Fútbol']"
+                }
+            },
+            {
+                "content": "C. D. Cabra Joven. C. D. Fútbol Sala femenino. Club de Vóley Cabra femenino. C. D. Cabra Fútbol 7 \"Veteranos\". Estos cuatro últimos, disputan sus encuentros en el pabellón deportivo municipal de la localidad. Personas notables Fiestas 16 de enero: lumbres de San Antón. 20 de enero: día de San Sebastián, se celebra la llegada del lienzo del Santo Cristo de Burgos.. 2 de febrero: fiesta de la Candelaria, se bendicen los roscos de candelaria, los más pequeños adornan sus cestos para llevarlos a la iglesia.",
+                "metadata": {
+                    "id": 2400,
+                    "title": "Cabra del Santo Cristo",
+                    "categories": "['Cabra del Santo Cristo']"
+                }
+            },
+            {
+                "content": "Según datos oficiales, el escudo de Torredonjimeno se caracteriza por:​ Bandera La bandera de Torredonjimento tiene la siguiente descripción: Himno En el año 2006 fue aprobado el Himno Oficial de la localidad mediante Concurso de Composición a nivel Nacional y cuya música y letra pertenece a Don Miguel Rueda Carpio, profesor superior de música especializado en interpretación, composición y dirección musical, que fue galardonado con el primer y único premio del concurso de ideas para su creación, a la edad de 22 años.​ La letra del himno es la siguiente:​ Administración y política Administración municipal La administración municipal es llevada a cabo por el ayuntamiento de Torredonjimeno, institución que gobierna el municipio y cuyos miembros son elegidos cada cuatro años por sufragio universal desde las primeras elecciones municipales tras la reinstauración de la democracia en España, en 1979.",
+                "metadata": {
+                    "id": 1977,
+                    "title": "Torredonjimeno",
+                    "categories": "['Torredonjimeno', 'Comarca Metropolitana de Jaén', 'Municipios de la provincia de Jaén', 'Localidades de la provincia de Jaén']"
+                }
+            }
+        ],
+        "reference": "El Unión Deportiva Ciudad de Torredonjimeno compite actualmente en el grupo nueve de la Tercera División.",
+        "reference_contexts": "La Unión Deportiva Ciudad de Torredonjimeno es un club de fútbol de la ciudad de Torredonjimeno, (Jaén) que en la actualidad compite en el Grupo IX de la Tercera División de España. Historia Fundación y primeros años La UDCT nació en 2009 para sustituir al histórico Torredonjimeno C. F., que había desaparecido ese mismo año debido a las deudas que arrastraba."
+    },
+    "test_9": {
+        "question": "¿Cómo se llama el estadio del equipo de fútbol sala de Jaén?",
+        "query": "¿Cómo se llama el estadio del equipo de fútbol sala de Jaén?",
+        "id_context": 1315,
+        "retrieved_contexts": [
+            {
+                "content": "El estadio fue construido pensando que el Real Jaén CF se mantendría en Segunda División, por lo que cuenta con unas buenas instalaciones y un acabado impecable. Cuenta con terreno de juego de césped artificial debajo del terreno de césped natural (al cual se accede desde los vestuarios) que se usa para la preparación física de los jugadores. El estadio se encuentra a las afueras de la ciudad de Jaén, en la Carretera de Granada, lo que lo hace menos accesible para los aficionados que su predecesor.",
+                "metadata": {
+                    "id": 1620,
+                    "title": "Real Jaén Club de Fútbol",
+                    "categories": "['Real Jaén Club de Fútbol']"
+                }
+            },
+            {
+                "content": "Jaén es una estación de ferrocarril situada en el municipio español de Jaén, en la provincia homónima, comunidad autónoma de Andalucía. Se trata de una estación de carácter terminal que enlaza a la capital jiennense con la red ferroviaria general. Dispone de servicios de Media Distancia. Históricamente, Jaén fue una estación pasante que pertenecía a la línea Linares-Puente Genil, construida a finales del siglo XIX como un enlace de las comarcas jiennenses con un puerto marítimo.",
+                "metadata": {
+                    "id": 1187,
+                    "title": "Estación de Jaén",
+                    "categories": "['Transporte en Jaén', 'Estaciones ferroviarias de la provincia de Jaén', 'Estaciones del tranvía de Jaén', 'Línea Espeluy-Jaén']"
+                }
+            },
+            {
+                "content": "El Jaén Fútbol Sala, por razones de patrocinio Jaén Paraíso Interior, es un equipo profesional de fútbol sala fundado en 1987 en Jaén, España. Actualmente juega en la Primera División de la LNFS, máxima categoría nacional. Historia Fundado en 1987, el Jaén Fútbol Sala ha sufrido diferentes cambios de nombre por motivos de patrocinio: Jaén Paraíso Interior, Alvic Jaén, Cajasur Jaén F. S., Cánava, Oliva Secavi, Zeluán, Fuconsa, Cafetería Zúrich, Real Jaén F. S., Adenta Real Jaén F. S. , Fuconsa Jaén F.S.",
+                "metadata": {
+                    "id": 1618,
+                    "title": "Jaén Fútbol Sala",
+                    "categories": "['Equipos de fútbol de Jaén']"
+                }
+            },
+            {
+                "content": "El estadio de La Victoria es un estadio de fútbol localizado en Jaén, España, en el cual disputa sus partidos como local el Real Jaén Club de Fútbol. Heredó su nombre del anterior estadio, que se encontraba situado en el céntrico barrio jienense de La Victoria. Historia Se inauguró el 29 de agosto de 2001, celebrándose el primer partido oficial el 2 de septiembre. Hasta entonces, el Real Jaén disputaba sus partidos en el Antiguo Estadio de la Victoria.",
+                "metadata": {
+                    "id": 1049,
+                    "title": "Estadio de La Victoria",
+                    "categories": "['Real Jaén Club de Fútbol', 'Arquitectura de Jaén', 'Estadios de fútbol de la provincia de Jaén', 'Deporte en Jaén']"
+                }
+            },
+            {
+                "content": "Al pabellón pueden acudir tanto los estudiantes de la Universidad de Jaén como los que no lo son. Consta de una pista polideportiva (fútbol sala, baloncest, voleibol), dos gimnasios (musculación y cardiovascular) con vistas al campus, vestuarios, zona de administración, enfermería, aseos y almacén.​ Medios de comunicación A nivel de prensa escrita, en la ciudad pueden adquirirse los periódicos nacionales e internacionales de mayor difusión, así como los periódicos provinciales Diario Jaén e Ideal Jaén.",
+                "metadata": {
+                    "id": 2178,
+                    "title": "Linares (Jaén)",
+                    "categories": "['Linares']"
+                }
+            }
+        ],
+        "reference": "El estadio del Jaén Fútbol Sala es el Olivo Arena.",
+        "reference_contexts": "El Palacio de Deportes Olivo Arena , conocido simplemente como Olivo Arena es un pabellón de la ciudad de Jaén (España). En él juega sus partidos de Primera División de fútbol sala el Jaén Paraíso Interior y también se albergan grandes eventos.​ Historia El pabellón se inaugura en 2021 y se convierte en la nueva casa del Jaén Paraíso Interior para disputar sus partidos de Primera División de fútbol sala.​ Puede albergar distintos tipos de eventos."
+    },
+    "test_10": {
+        "question": "¿Cuando se prevé que acabarán las obras del CETEDEX?",
+        "query": "¿Cuando se prevé que acabarán las obras del CETEDEX?",
+        "id_context": 1917,
+        "retrieved_contexts": [
+            {
+                "content": "La construcción de dicha autovía llevaba siendo reivindicada desde hace años. Estaba previsto que las obras de la autovía A-81 comenzasen sobre el 2013 (o antes) y finalizaran en su totalidad sobre el 2020, aunque se haría por tramos. En la actualidad dicho proceso no ha comenzado.",
+                "metadata": {
+                    "id": 2635,
+                    "title": "N-432",
+                    "categories": "['Red de carreteras del Estado en Jaén']"
+                }
+            },
+            {
+                "content": "del Centro de Educación e Investigación para la Paz (CEIPAZ), Madrid, CEIPAZ, 2011, ISSN 2174-3665 Manuela Mesa (Coord. ), Cambio de ciclo: crisis, respuestas y tendencias globales. Anuario 2012-2013 Archivado el 10 de abril de 2018 en Wayback Machine. del Centro de Educación e Investigación para la Paz (CEIPAZ). Madrid, CEIPAZ, 2012, ISSN 2174-3665 Manuela Mesa (Coord.",
+                "metadata": {
+                    "id": 756,
+                    "title": "Manuela Mesa",
+                    "categories": "['Nacidos en Martos']"
+                }
+            },
+            {
+                "content": "En diciembre de 2009, LIBITEC anunció el cierre completo de la fábrica al finalizar el convenio de trabajo de tres años que tenía con los trabajadores.​ El desmantelamiento se llevó a cabo en el primer trimestre de 2010.​ En 2018, la actividad de la planta de biodiésel linarense se vio potenciada con la entrada del grupo inversor extremeño Solindex S.L.",
+                "metadata": {
+                    "id": 2178,
+                    "title": "Linares (Jaén)",
+                    "categories": "['Linares']"
+                }
+            },
+            {
+                "content": "Cada año este pasacalles va ganando más adeptos. A principios del año 2006 la banda recibe una gran noticia, la cual es fruto del esfuerzo y de la ilusión de todos sus componentes, era la confirmación de la realización del trabajo discográfico tan esperado por todos. Llegados a este punto todos se ponen manos a la obra para preparar este esperado Cd.",
+                "metadata": {
+                    "id": 1011,
+                    "title": "Bandas de cabecera",
+                    "categories": "['Semana Santa en Linares']"
+                }
+            },
+            {
+                "content": "En la actualidad —febrero de 2017— la planta depuradora de aguas residuales de Úbeda se encuentra terminada pero aún no se ha puesto en funcionamiento, por lo que no se realiza apenas tratamiento de estas aguas, a excepción hecha de un ínfimo porcentaje en tres pequeñas plantas de tratamiento en tres núcleos diseminados del municipio, el EDAR de Solana de Torralba, El Donadío y el de Veracruz.​ Se espera que en 2017 entre en funcionamiento la EDAR de Úbeda, resolviendo los actuales problemas de vertido de las aguas fecales de la población.",
+                "metadata": {
+                    "id": 2095,
+                    "title": "Úbeda",
+                    "categories": "['Úbeda']"
+                }
+            }
+        ],
+        "reference": "Se prevé que para diciembre de 2026 se alcance una capacidad inicial, mientras que para finales de 2029 sería la capacidad completa.",
+        "reference_contexts": "El Centro Tecnológico de Desarrollo y Experimentación o CETEDEX es un centro dependiente del Ministerio de Defensa, y adscrito al Instituto Nacional de Técnica Aeroespacial (INTA) anunciado en diciembre de 2022​ y cuya construcción se proyecta entre 2023 y 2029 en Jaén. El centro contará con un campus principal de 8 hectáreas y un campo de pruebas avanzado de 600 hectáreas​ en el Parque Empresarial Nuevo Jaén. Obras La construcción del campus principal se compone de dos fases: Vallado. Licitación prevista para abril de 2023 y ejecución entre julio y diciembre de 2023. Urbanización y edificaciones. Licitación prevista para septiembre de 2023 y ejecución de las obras durante 24 meses, a partir de julio de 2024. Por su parte, la recepción de la capacidad inicial se espera para diciembre de 2026 y la capacidad completa para finales de 2029​. El proyecto aún no tiene concreción alguna en planos o presupuesto."
+    },
+    "test_11": {
+        "question": "¿A qué se dedica la empresa Doña Jimena?",
+        "query": "¿A qué se dedica la empresa Doña Jimena?",
+        "id_context": 1902,
+        "retrieved_contexts": [
+            {
+                "content": "Doña Jimena es la marca comercial del grupo Productos J. Jiménez S. A. dedicada a la producción de turrones, bombones y dulces navideños entre otros productos. Posee tres fábricas, la principal en Alcaudete en la provincia de Jaén, otra en Sonseca, en la provincia de Toledo y la última en Noguerones (pedanía de Alcaudete) dedicada a la producción de aceite de oliva. En la actualidad está presente en 60 países, en algunos de ellos a través de filiales propias.",
+                "metadata": {
+                    "id": 1910,
+                    "title": "Doña Jimena (dulces)",
+                    "categories": "['Empresas de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Como ejemplo de esos acuerdos: “se obliga a Fabricas Inoxidables a contratar el personal que trabaje en su industria de La Carolina tanto masculino como femenino a través del Iltmo.",
+                "metadata": {
+                    "id": 298,
+                    "title": "Ramón Palacios Rubio",
+                    "categories": "['Presidentes de la Diputación de Jaén', 'Hijos predilectos de Jaén', 'Alcaldes de la provincia de Jaén', 'Nacidos en La Carolina']"
+                }
+            },
+            {
+                "content": "Estos datos lo convierten en el diario líder indiscutible de la provincia jiennense. La mayoría accionarial de la compañía editora es propiedad de un grupo de empresarios jiennenses liderados por Eleuterio Muñoz González, presidente del periódico desde finales de 2013. Ideológicamente está considerado un periódico preocupado por los intereses primordiales de sus lectores, jiennenses que viven en Jaén o fuera de sus fronteras. Sus secciones de más prestigio son Local y Provincia.",
+                "metadata": {
+                    "id": 1495,
+                    "title": "Diario Jaén",
+                    "categories": "['Medios de comunicación de Jaén', 'Periódicos de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "El último acuerdo entre las dos multinacionales daba a Santana Motor la posibilidad de fabricar el modelo Jimny bajo marca propia, tras cederle el gigante japonés la plataforma de dicho modelo.",
+                "metadata": {
+                    "id": 1916,
+                    "title": "Santana Motor",
+                    "categories": "['Santana Motor']"
+                }
+            },
+            {
+                "content": "UU. y fabricar en México a través de un socio de ese país. En 2009 la empresa aún no había sido relanzada, sus fundadores estaban arruinados y los trabajadores no habían recuperado su puesto de trabajo.",
+                "metadata": {
+                    "id": 1913,
+                    "title": "Astilleros Astraea",
+                    "categories": "['Empresas desaparecidas de la provincia de Jaén']"
+                }
+            }
+        ],
+        "reference": "La marca comercial Doña Jimena se dedica a la producción de turrones, bombones y dulces navideños, entre otros productos.",
+        "reference_contexts": "Doña Jimena es la marca comercial del grupo Productos J. Jiménez S. A. dedicada a la producción de turrones, bombones y dulces navideños entre otros productos. Posee tres fábricas, la principal en Alcaudete en la provincia de Jaén, otra en Sonseca, en la provincia de Toledo y la última en Noguerones (pedanía de Alcaudete) dedicada a la producción de aceite de oliva. En la actualidad está presente en 60 países, en algunos de ellos a través de filiales propias."
+    },
+    "test_12": {
+        "question": "¿Qué es el Expoliva?",
+        "query": "¿Qué es el Expoliva?",
+        "id_context": 1918,
+        "retrieved_contexts": [
+            {
+                "content": "Además, con carácter bianual, en la institución ferial, se celebra Expoliva, Feria Internacional del Aceite de Oliva e Industrias Afines, referente a nivel mundial del sector del olivar, el aceite de oliva y su industria.​ En el mes de junio tienen lugar las «Ferias y fiestas en honor a la Virgen de la Capilla», co-patrona de la ciudad, además de conciertos, como el Lagarto Rock, y festejos taurinos.",
+                "metadata": {
+                    "id": 1981,
+                    "title": "Jaén",
+                    "categories": "['Jaén', 'Localidades de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Alguna de ellas: Ase: Abreviación de \"a casa de\". Cerviquillo: Bordillo, esquina, escalón. Chamá: Rato o periodo de tiempo. Chisco: Fuego, hoguera. Chispo: Pequeña partícula. Correíllas: Cordones de los zapatos Corrupia: Avaro. Cuesco: Golpe dado en la cabeza. Ea: Sirve para todas las situaciones que no hay nada que decir. Enchumizao: Que tiene frío. Enjabiluchao: Encorvado Empalmarse: Tener un golpe de suerte Garrampón: Guapo, con buena presencia Janchar: Ladear, torcer, doblar. Jeringa: Churros.",
+                "metadata": {
+                    "id": 2043,
+                    "title": "Porcuna",
+                    "categories": "['Porcuna', 'Localidades de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "El Catálogo Oficial de Razas de Ganado de España la incluye en el Grupo de Razas Autóctonas en Peligro de Extinción.​ Características morfológicas La oveja montesina procede del tronco ibérico, cuyo ancestro es el Ovis aries Ibericus,​ por lo que presenta la característica pigmentación de manchas negras alrededor de los ojos, en la punta de las orejas, en el morro y, por lo general, en la parte distal de las extremidades.",
+                "metadata": {
+                    "id": 2573,
+                    "title": "Oveja montesina",
+                    "categories": "['Razas autóctonas de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Descripción Se trata de una obra de estilo manierista al gusto de Vignola, al cual conocería en su formación en Italia durante los trabajos de la Villa Giulia, recordando, de hecho, esta fuente a la portada principal del Casino, de un severo academicismo y efectismo. Vignolesca es asimismo la solución dada a la unión de los tres cuerpos de los que consta, pues al ser más alto el central, se decora el vacío dejado con una voluta a cada lado.",
+                "metadata": {
+                    "id": 1097,
+                    "title": "Fuente Nueva (Martos)",
+                    "categories": "['Monumentos de la provincia de Jaén', 'Arquitectura de Martos', 'Bienes de interés cultural de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "El Ajilimojili (aunque aparece también como Ajili-Mójili, Ajili Mojili, ajilimójili, ajilimoje o ajioli jiennense) es una salsa vinagreta típica de muchas regiones deEspaña.​​ Consiste en una especie salsa de ajo (ajos machacados) que posee diversas formas de preparación. Características Se suelen mezclar los ingredientes en un recipiente con el objeto de hacer la emulsión.",
+                "metadata": {
+                    "id": 1422,
+                    "title": "Ajilimojili",
+                    "categories": "['Gastronomía de la provincia de Jaén']"
+                }
+            }
+        ],
+        "reference": "Expoliva es una feria internacional del aceite de oliva que se celebra cada dos años en la ciudad de Jaén.",
+        "reference_contexts": "Feria Internacional del Aceite de oliva e Industrias Afines Se trata de una feria de carácter bienal promovida desde 1990 por la Fundación del Olivar, que se en la ciudad de Jaén, en la Comunidad Autónoma de Andalucía, en España. Su carácter internacional la convierte en la referencia mundial de las ferias dedicadas al sector del aceite de oliva. Se celebra desde el año 1983, y desde 1997 tiene lugar en el Recinto Provincial de Ferias y Congresos de Jaén (IFEJA)."
+    },
+    "test_13": {
+        "question": "¿Cuántos habitantes tiene Santiago de Calatrava?",
+        "query": "¿Cuántos habitantes tiene Santiago de Calatrava?",
+        "id_context": 1969,
+        "retrieved_contexts": [
+            {
+                "content": "Entre sus aldeas y cortijadas destacar Peñolite, Pedronares (antiguamente), El Tamaral y Los Avileses. Geografía humana Demografía Cuenta con una población de 2188 habitantes (INE 2024).",
+                "metadata": {
+                    "id": 2200,
+                    "title": "Puente de Génave",
+                    "categories": "['Sierra de Segura (comarca)', 'Puente de Génave', 'Municipios de la provincia de Jaén', 'Localidades de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "El municipio santiagueño comprende el núcleo de población de Santiago de Calatrava —capital municipal— y diversos diseminados. Historia En Santiago de Calatrava se han hallado vestigios arqueológicos de la época romana y árabe, lo que certifica la presencia en su territorio de población romana y árabe, de ahí su ancestral historia y cultura.",
+                "metadata": {
+                    "id": 1976,
+                    "title": "Santiago de Calatrava",
+                    "categories": "['Santiago de Calatrava', 'Comarca Metropolitana de Jaén', 'Municipios de la provincia de Jaén', 'Localidades de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Sierra de Cazorla (también llamada Alto Guadalquivir o comarca de Cazorla) es el nombre de una comarca de la provincia de Jaén (España). Una parte significativa de su territorio forma parte del parque natural de las Sierras de Cazorla, Segura y Las Villas. La población de esta comarca es de 29.818 habitantes (INE 2024), tiene una superficie de 1.330,72 km², y una densidad de población de 22,41 hab/km².",
+                "metadata": {
+                    "id": 2108,
+                    "title": "Sierra de Cazorla (comarca)",
+                    "categories": "['Sierra de Cazorla (comarca)']"
+                }
+            },
+            {
+                "content": "Esta habitada por 41 personas, 20 hombres y 21 mujeres. Es una aldea muy bonita con sus pasajes y callejones preciosos, el estilo rural de las casas… Se encuentra a las siguientes distancias de estas ubicaciones: - Nacimiento del Guadalquivir: 32 km - Cazorla: 12 km - Entrada a la Sierra de Cazorla, Segura y Las Villas: 5,2 km En 2001 hubo un grave incendio en la Sierra de Cazorla que casi afecta a algunas pedanías, pero la zona ya es replantada.",
+                "metadata": {
+                    "id": 2112,
+                    "title": "El Palomar (Jaén)",
+                    "categories": "['Sierra de Cazorla (comarca)', 'Pedanías de la provincia de Jaén', 'La Iruela', 'Localidades de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Limita con las provincias de Albacete (norte) y Granada (sur). Tiene 1492 habitantes y está situado a 1340 m de altura. Su gentilicio es hornillero debido a que en la Edad Media había un horno en el cual coincidieron unos pastores de las serranías de Cuenca para fundar lo que sería “El Hornillo”. Aunque el más comúnmente utilizado por los habitantes de la zona es el de santiagueño. Historia Nacimiento El origen de Santiago de la Espada tiene lugar en la prehistoria.",
+                "metadata": {
+                    "id": 2227,
+                    "title": "Santiago de la Espada",
+                    "categories": "['Santiago-Pontones', 'Municipios desaparecidos de la provincia de Jaén', 'Localidades de la provincia de Jaén']"
+                }
+            }
+        ],
+        "reference": "Santiago de Calatrava cuenta con una población de 657 habitantes a fecha de 2023, según el INE.",
+        "reference_contexts": "Este artículo trata sobre el municipio jiennense. Para el arquitecto valenciano, véase Santiago Calatrava. Santiago de Calatrava es una localidad y municipio español situado en la parte occidental de la comarca Metropolitana de Jaén, en la provincia de Jaén. Limita con los municipios jienenses de Higuera de Calatrava, Torredonjimeno y Martos; y con los municipios cordobeses de Baena y Valenzuela. Tiene 655 habitantes (según datos del INE de 2022), sobre un término municipal de 47,66 km². Geografía humana Demografía Cuenta con una población de 657 habitantes (INE 2024). Organización político-administrativa Elecciones municipales Alcaldía Economía Se trata de un municipio fundamentalmente agrícola cuya economía se basa en el olivo. Cultura Monumentos Iglesia parroquial de Nuestra Señora de la Estrella, templo barroco. Antigua Cámara Agraria (Hoy hogar del jubilado). Casa Consistorial."
+    },
+    "test_14": {
+        "question": "¿Qué animales se pueden encontrar en Despeñaperros?",
+        "query": "¿Qué animales se pueden encontrar en Despeñaperros?",
+        "id_context": 1524,
+        "retrieved_contexts": [
+            {
+                "content": "Entre los mamíferos destacan el jabalí en las zonas más espesas del bosque mediterráneo, la cabra montés en zonas como la Peña o sierra de la Grana; depredadores como el zorro, el tejón, el turón, la jineta, la nutria, la garduña, la comadreja o el gato montés. Hay lagomorfos como el conejo de campo o la liebre y roedores como el ratón de campo, la rata de agua y el lirón careto.",
+                "metadata": {
+                    "id": 2030,
+                    "title": "Martos",
+                    "categories": "['Martos']"
+                }
+            },
+            {
+                "content": "También abundan los alisos y los almeces en el fondo de barrancos húmedos. En cuanto a la fauna, están presentes el ruiseñor y la lavandera blanca así como la nutria.​",
+                "metadata": {
+                    "id": 2428,
+                    "title": "Río Renegadero",
+                    "categories": "['Ríos de la provincia de Jaén', 'Afluentes del Rumblar']"
+                }
+            },
+            {
+                "content": "Pleguezuelos y Moreno (1990) encuentran al menos 4 anfibios en el territorio, el sapillo pintojo ibérico, el sapo común, el sapo corredor y la rana común. Estos mismos autores citan al menos 12 reptiles, la salamanquesa común, la salamanquesa rosada, la lagartija coliroja, el lagarto ocelado, la lagartija ibérica, la culebrilla ciega, la culebra bastarda, la culebra de herradura, la culebra de escalera, la culebra viperina y la víbora hocicuda.",
+                "metadata": {
+                    "id": 2364,
+                    "title": "Fuensanta de Martos",
+                    "categories": "['Municipios de la provincia de Jaén', 'Localidades de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "En los callejones y agujas se pueden ver durante todo el año el Roquero solitario (Monticola solitarius), el Gorrión chillón (Petronia petronia), el Cuervo (Corvus corax) o el Colirrojo tizón (Phoenicurus ochrurus), pero en primavera frecuentan la zona, además, la Golondrina dáurica (Hirundo daurica) y el Abejaruco (Merops apiaster),y en invierno se puede observar al Acentor alpino (Prunella collaris). La vegetación crece entre las calizas, y también en los sombríos callejones y pozos.",
+                "metadata": {
+                    "id": 2496,
+                    "title": "Cerro del Hierro",
+                    "categories": "['Montañas de Sierra Morena']"
+                }
+            },
+            {
+                "content": "Entre las especies terrestres: conejo, liebre, zorro, nutria, meloncillo, ciervo, muflón, jabalí, lince y lobo. Dentro de los límites del parque se asientan las poblaciones de Hornachuelos, Posadas, Almodóvar del Río y Villaviciosa de Córdoba; el conjunto arquitectónico de San Calixto, que alberga una comunidad de Carmelitas Descalzos, además de caseríos y fincas.​",
+                "metadata": {
+                    "id": 2490,
+                    "title": "Parque natural Sierra de Hornachuelos",
+                    "categories": "['Sierra Morena']"
+                }
+            }
+        ],
+        "reference": "En Despeñaperros se pueden encontrar principalmente ciervos y jabalíes, aunque también pueden encontrarse con menor probabilidad linces, lobos y zorros. En cuanto a aves, destacan el águila imperial y el buitre leonado.",
+        "reference_contexts": "El Parque natural de Despeñaperros es un espacio natural protegido situado en el municipio de Santa Elena, al norte de Andalucía y excavado por el río Despeñaperros. Fue declarado Parque natural por la Junta de Andalucía por sus valores geológicos, paisajísticos, así como por su flora y fauna destacables, y cuenta con una extensión de 7649 ha. Por otra parte, en el parque natural existen treinta endemismos únicos en el mundo y otras especies únicas en la península ibérica. Fauna Hay una importante presencia de ciervo y jabalí, sobre los que se mantienen autorizadas monterías de caza, pero es más destacable la existencia de algunos pocos ejemplares de lince ibérico y de lobo ibérico, así como pequeños carnívoros como el zorro, el meloncillo y el gato montés. Entre las aves que habitan Despeñaperros destaca el águila imperial y el buitre leonado."
+    },
+    "test_15": {
+        "question": "¿Cuál es la longitud del río Cambil?",
+        "query": "¿Cuál es la longitud del río Cambil?",
+        "id_context": 2397,
+        "retrieved_contexts": [
+            {
+                "content": "El río Cambil es un río del sur de la península ibérica perteneciente a la cuenca hidrográfica del Guadalquivir, que discurre íntegramente por la provincia de Jaén (España). Curso El río nace en pleno centro de la localidad de Cambil, de la confluencia del río Oviedo y el río Villanueva. Realiza un recorrido de unos 9 km, primero en dirección norte-sur y después en sentido este-oeste hasta su desembocadura en el río Guadalbullón, a su vez afluente del río Guadalquivir. Tiene por afluente al río Arbuniel.",
+                "metadata": {
+                    "id": 2405,
+                    "title": "Río Cambil",
+                    "categories": "['Ríos de la provincia de Jaén', 'Afluentes del Guadalbullón']"
+                }
+            },
+            {
+                "content": "Consiste en una conducción de 120 km, siete balsas de regulación y dos minicentrales hidroeléctricas para transportar 50 hm³ anuales..​ La presa La Presa del Negratín (1.984) es de tipo mixta, de Gravedad y Materiales sueltos con pantalla asfáltica, planta recta, tiene una altura sobre el cauce de 67 m y sobre cimientos de 75 m. La longitud de coronación es de 439 m y el ancho de coronación de 10 m, siendo el volumen total del cuerpo de la presa de 1061,11 m³.",
+                "metadata": {
+                    "id": 2458,
+                    "title": "Embalse del Negratín",
+                    "categories": "['Guadiana Menor']"
+                }
+            },
+            {
+                "content": "Tiene una longitud de 68 km según algunas fuentes.​ Toponimia El nombre del río procede del árabe wadi Fardis.​ Curso Nace en la sierra de Huétor, en el término municipal de Huétor Santillán, de la confluencia del arroyo de Prado Negro y el arroyo de las Perdices, aunque también recibe los aportes de otro grupo de manantiales de aguas termales de la zona de Diezma.",
+                "metadata": {
+                    "id": 2460,
+                    "title": "Río Fardes",
+                    "categories": "['Afluentes del Guadiana Menor']"
+                }
+            },
+            {
+                "content": "Tiene forma irregular, pues mientras en la dirección norte-sur alcanza una longitud de 39 kilómetros, en la de este-oeste no llega a 10 kilómetros máximo, e inferior a medio kilómetro en las proximidades del río Montizón. La parte norte del término, contada desde el río Montizón, es montañosa y pertenece toda ella a Sierra Morena, con una extensión de 5142 hectáreas.",
+                "metadata": {
+                    "id": 1962,
+                    "title": "Castellar (Jaén)",
+                    "categories": "['El Condado (Jaén)', 'Castellar (Jaén)', 'Municipios de la provincia de Jaén', 'Localidades de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "La Cimbarra Si por algo es conocida Aldeaquemada es precisamente por La Cimbarra. Esta espectacular cascada de agua de unos 40 metros de altura se encuentra a unos dos kilómetros del pueblo en dirección sur y tiene la categoría de Paraje Natural. El camino de acceso está en buen estado y los esfuerzos por su mejora han sido importantes en los últimos años. La zona se encuentra bien señalizada y no es difícil acceder al sitio.",
+                "metadata": {
+                    "id": 2159,
+                    "title": "Aldeaquemada",
+                    "categories": "['Aldeaquemada', 'Localidades de la provincia de Jaén']"
+                }
+            }
+        ],
+        "reference": "El río Cambil tiene una extensión de 9 kilómetros.",
+        "reference_contexts": "El río Cambil es un río del sur de la península ibérica perteneciente a la cuenca hidrográfica del Guadalquivir, que discurre íntegramente por la provincia de Jaén (España). Curso El río nace en pleno centro de la localidad de Cambil, de la confluencia del río Oviedo y el río Villanueva. Realiza un recorrido de unos 9 km, primero en dirección norte-sur y después en sentido este-oeste hasta su desembocadura en el río Guadalbullón, a su vez afluente del río Guadalquivir. Tiene por afluente al río Arbuniel."
+    },
+    "test_16": {
+        "question": "Cuéntame la historia del tesoro de Torredonjimeno",
+        "query": "Cuéntame la historia del tesoro de Torredonjimeno",
+        "id_context": 2040,
+        "retrieved_contexts": [
+            {
+                "content": "El tesoro de Torredonjimeno es un conjunto de orfebrería visigoda compuesto por varias coronas votivas que los reyes visigodos ofrecieron a la Iglesia. Es muy parecido al Tesoro de Guarrazar aunque algo más tosco, posiblemente las coronas estuvieran dedicadas a las santas Justa y Rufina.",
+                "metadata": {
+                    "id": 2047,
+                    "title": "Tesoro de Torredonjimeno",
+                    "categories": "['Historia de la provincia de Jaén', 'Torredonjimeno']"
+                }
+            },
+            {
+                "content": "La única leyenda de la que se tiene constancia de que haya habido testigos es la de un hombre que se aparece vestido de negro, con sombrero y al que no se le ven los pies ya que se encuentra suspendido en el aire (descripción hecha por mujeres que hace décadas acudían al arroyo a hacer la colada). Sean reales o no, el Molino del Cubo es un lugar imponente de Torredonjimeno, ya que esta construcción ha sobrevivido a cinco siglos.",
+                "metadata": {
+                    "id": 1347,
+                    "title": "Molino del Cubo (Torredonjimeno)",
+                    "categories": "['Torredonjimeno', 'Bienes de interés cultural de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "En un trampantojo de un carmen del Albaicín queda el testimonio del enigmático amor entre Ángel Ganivet y Casta Cabezas. La restauración del trampantojo no solo irá desvelando los detalles sino que un siglo después, actuará como un juego de espejos para dejar traslucir los sentimientos —amor, pasión, amistad— de los protagonistas que parecen condenados a revivir la misma pasión inútil representada en la pintura. Cuaderno de viaje, Finalista Premio Planeta (Planeta, 2000).",
+                "metadata": {
+                    "id": 806,
+                    "title": "Salvador Compán",
+                    "categories": "['Nacidos en Úbeda']"
+                }
+            },
+            {
+                "content": "Se sabe que cerca de Jamilena, en Torredonjimeno, fue hallado un extraordinario tesoro de dicho periodo. No obstante, las últimas investigaciones llevadas a cabo en las sierras cercanas a Jamilena han sacado a la luz interesantes conclusiones basadas en que durante este periodo se dio un proceso de ruralización en este territorio. Así, se produjo un fenómeno semejante al incastellamento italiano, es decir el paso de zonas llanas a zonas de montaña.",
+                "metadata": {
+                    "id": 2017,
+                    "title": "Jamilena",
+                    "categories": "['Jamilena']"
+                }
+            },
+            {
+                "content": "El guion de esta producción audiovisual presentado en formato envolvente de doble pantalla presenta la colección a través de su contexto histórico desde su descubrimiento. Sala III: La Cámara del Tesoro. El acceso a la última sala del centro de interpretación presenta la reproducción fidedigna del Tesoro de Torredonjimeno.",
+                "metadata": {
+                    "id": 2047,
+                    "title": "Tesoro de Torredonjimeno",
+                    "categories": "['Historia de la provincia de Jaén', 'Torredonjimeno']"
+                }
+            }
+        ],
+        "reference": "El tesoro de Torredonjimeno es un conjunto de orfebrería visigoda compuesto por varias coronas votivas que los reyes visigodos ofrecieron a la Iglesia. Fue encontrado en 1926 en Torredonjimeno, provincia de Jaén, cerca de la actual Ermita de la Virgen de Consolación por un campesino que se encontraba trabajando en el campo. Pensando que las piezas carecían de valor, se las dio a los hijos que se entretenían desmontando las joyas y mezclándolas con barro. Tiempo después apareció un trapero que compró las piezas. Ahí se le pierde el rastro, hasta que vuelve a aparecer en los años 40. Actualmente está repartido entre los Museos Arqueológicos de Madrid, Barcelona y Córdoba, aunque en el castillo de Torredonjimeno se exponen sus réplicas.",
+        "reference_contexts": "El tesoro de Torredonjimeno es un conjunto de orfebrería visigoda compuesto por varias coronas votivas que los reyes visigodos ofrecieron a la Iglesia. Es muy parecido al Tesoro de Guarrazar aunque algo más tosco, posiblemente las coronas estuvieran dedicadas a las santas Justa y Rufina. Fue encontrado en 1926 en Torredonjimeno, provincia de Jaén, cerca de la actual Ermita de la Virgen de Consolación, en una finca de olivar, a 2 km del núcleo urbano del pueblo y a 4 km de Martos, por un campesino que se encontraba trabajando en el campo. Pensando que las piezas carecían de valor, se las dio a los hijos que se entretenían desmontando las joyas y mezclándolas con barro. Tiempo después apareció un trapero que compró las piezas. Ahí se le pierde el rastro, hasta que vuelve a aparecer en los años 40, fragmentado. El Tesoro se encuentra actualmente repartido entre los Museos Arqueológicos de Madrid, Barcelona y Córdoba.​ Corona La corona votiva que se conserva en la sede de Barcelona del MAC iría suspendida sobre el altar de una iglesia como ofrenda de los poderosos de la época a Dios y a los santos, con el fin de obtener su protección."
+    },
+    "test_17": {
+        "question": "¿Por qué se libró la batalla de Bailén?",
+        "query": "¿Por qué se libró la batalla de Bailén?",
+        "id_context": 2153,
+        "retrieved_contexts": [
+            {
+                "content": "Lugares históricos de las batallas Dada la importancia de la batalla de Baecula que volcó la segunda guerra púnica a favor de los romanos, de Navas de Tolosa que abrió toda Andalucía a la conquista castellana o de Bailén que significó el comienzo del ocaso de Napoleón, y su primera gran derrota, y la proximidad espacial de las tres, es posible contar con un patrimonio excelente que, sin embargo, está por reconstruir.",
+                "metadata": {
+                    "id": 1,
+                    "title": "Provincia de Jaén (España)",
+                    "categories": "['Provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Vedel, al ver las tropas, se resistió a creer que la batalla había acabado y ordenó atacar. Una vez iniciado este ataque, llegó una orden escrita de Dupont del cese del combate, con lo que a las seis de la tarde cesó todo fuego en Bailén. El hecho de que el enfrentamiento tuviese lugar a las mismas puertas de Bailén pudo ser decisivo para la victoria española: la población local apoyó en todo cuanto pudo a sus tropas.",
+                "metadata": {
+                    "id": 2161,
+                    "title": "Batalla de Bailén",
+                    "categories": "['Bailén', 'Batallas en la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Finalmente el Santuario es tomado por el bando republicano. El resultado final de los bombardeos sobre el Santuario fue su reducción a escombros, la pérdida de su riqueza artística y de la imagen primitiva de la Virgen de la Cabeza. Como principales causas de su destrucción cabe destacar los incesantes bombardeos del lado republicano debido a la resistencia de los refugiados y la importancia y repercusión que la prensa de ambos bandos daba al desarrollo del asedio.",
+                "metadata": {
+                    "id": 1150,
+                    "title": "Basílica de Nuestra Señora de la Cabeza",
+                    "categories": "['Basílica de Nuestra Señora de la Cabeza', 'Iglesias de la provincia de Jaén del siglo XIII', 'Iglesias de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Sin embargo, no hay pruebas documentales fidedignas que respalden esta historia, y tanto los historiadores como naturalmente los adeptos de la Verdadera Destreza niegan que jamás tuviera lugar. El propio Quevedo no recoge este duelo en ninguno de sus escritos ni testimonios existentes, algo extraño teniendo en cuenta su carácter pendenciero y la gran victoria que le habría supuesto el haber derrotado así a un enemigo.",
+                "metadata": {
+                    "id": 260,
+                    "title": "Luis Pacheco de Narváez",
+                    "categories": "['Nacidos en Baeza', 'Militares de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Primero, la agresividad de Escipión, quien buscó dar batalla antes que sus enemigos unieran fuerzas y lo rodearan.​ Segundo, por qué no persiguió a los vencidos después del combate, para hacerlo debía entrar en planicies donde la superior caballería cartaginesa tendría la ventaja si se encontraba con los otros generales.",
+                "metadata": {
+                    "id": 2517,
+                    "title": "Batalla de Baecula",
+                    "categories": "['Batallas en la provincia de Jaén']"
+                }
+            }
+        ],
+        "reference": "La batalla de Bailén se libró durante la Guerra de la Independencia Española para detener el avance del ejército napoleónico hacia el sur de España y proteger Andalucía, donde se organizaban tropas españolas para resistir la ocupación francesa.",
+        "reference_contexts": "La batalla de Bailén se libró durante la Guerra de la Independencia Española y supuso la primera derrota en campo abierto de la historia del ejército napoleónico. Tuvo lugar el 19 de julio de 1808 junto a la ciudad jienense de Bailén. Enfrentó a un ejército francés de unos 21 000 soldados al mando del general Dupont con otro español más numeroso (unos 27 000) a las órdenes del general Teodoro Reding, aunque el general en jefe del llamado Ejército de Andalucía era el general Castaños."
+    },
+    "test_18": {
+        "question": "¿Qué representa el Mosaico de los Amores?",
+        "query": "¿Qué representa el Mosaico de los Amores?",
+        "id_context": 1351,
+        "retrieved_contexts": [
+            {
+                "content": "\"Afines​\" (2024): Una celebración de la unión y las conexiones humanas, explorando cómo dos cuerpos comparten un mismo universo. La obra combina elementos rituales con un profundo simbolismo emocional, destacando por su fuerza visual y narrativa.",
+                "metadata": {
+                    "id": 614,
+                    "title": "Mario Bermúdez",
+                    "categories": "['Nacidos en Jaén']"
+                }
+            },
+            {
+                "content": "La exterior formada por una hilera denticulada sobre un fondo oscuro. La orla interna por dos hileras denticuladas, lo que causa un efecto de cremallera. El panel principal del pavimento del mosaico de Cástulo constituye una variante del conocido «esquema a compás», que consiste en incluir en un cuadrado un círculo central, este a su vez rodeado de cuatro semicírculos a los lados y cuatro cuartos de círculo en los ángulos.",
+                "metadata": {
+                    "id": 1359,
+                    "title": "Cástulo",
+                    "categories": "['Cástulo']"
+                }
+            },
+            {
+                "content": "Entre estas composiciones destacan: De la profesión que hizo en la orden del Amor, en la que se habla de una orden religiosa metafóricamente para mostrar la devoción por la amada (votos de pobreza, obediencia); Escala de Amor, que representa la relación amorosa como algo que debe ser cuidado y defendido; y Castillo de Amor, donde la dama destaca por sus buenas cualidades y el amante admira todas sus virtudes como ocurre en el amor cortés.",
+                "metadata": {
+                    "id": 6,
+                    "title": "Jorge Manrique",
+                    "categories": "['Personas de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Las figuras humanas y los animales salvajes bajo tonalidades azules conforman principalmente el emblema de Cástulo, y todas tienen un carácter mitológico y simbólico. Los cuartos de círculo que hay en cada uno de los ángulos del mosaico lo forman los bustos alegóricos de las estaciones, con su correspondiente iconografía y atributos típicos. La primavera: Aparece representada una mujer con el torso completamente desnudo y cubierta por un manto de un tono azulado que le cae por el hombro izquierdo.",
+                "metadata": {
+                    "id": 1359,
+                    "title": "Cástulo",
+                    "categories": "['Cástulo']"
+                }
+            },
+            {
+                "content": "Pero será la temática amorosa entre parejas, cortejo, coqueteo, frustración, trabas familiares, etc., la que compondrá un precioso cancionero siempre lleno de picardía. Sin duda la jota serrana, es la que marca el núcleo preferido de las danzas populares, malagueña serrana, pasodobles, mazurcas, fandangos robaos, seguidillas, toreras, fandanguillos, minué y polcas completan la gama.",
+                "metadata": {
+                    "id": 2186,
+                    "title": "Comarca de Sierra de Segura (Jaén)",
+                    "categories": "['Sierra de Segura (comarca)']"
+                }
+            }
+        ],
+        "reference": "El Mosaico de los Amores representa que el exceso de pasión tiene sus consecuencias trágicas. A través de historias mitológicas como el Juicio de Paris y el mito de Selene y Endimión, se muestra cómo el amor y el deseo pueden llevar a resultados destructivos y finales trágicos. Los animales y Erotes en el mosaico refuerzan esta idea, simbolizando el engaño y la seducción.",
+        "reference_contexts": "A partir del año 2011, con la creación del Conjunto Arqueológico de Cástulo,​ y a través del proyecto de investigación Forum MMX,​ se han retomado las excavaciones arqueológicas que han sacado a la luz restos de edificaciones públicas, concretamente un posible templo de época imperial del siglo II​ que cuenta con muros estucados con motivos geométricos​ y un pavimento de mosaico en un gran estado de conservación.​ Hallazgos Mosaico de los Amores El mosaico es una alfombra de más de 750.000 teselas enlazadas en el suelo de un edificio, que data alrededor del siglo II o I a. C.​ Se trata de una composición geométrica en blanco, negro y ocre, marcando los emblemas por sus cuatro lados."
+    },
+    "test_19": {
+        "question": "¿Dónde puede crecer la Viola cazorlensis?",
+        "query": "¿Dónde puede crecer la Viola cazorlensis?",
+        "id_context": 1553,
+        "retrieved_contexts": [
+            {
+                "content": "La Violeta de Cazorla o Viola cazorlensis es una especie endémica de la Sierra de Cazorla, Segura y las Villas, de carácter rupícola florece en primavera sobre las rocas calizas de la Sierra. También se han encontrado ejemplares en las vecinas Sierra Mágina y Sierra Del Segura. Taxonomía Viola cazorlensis fue descrita por Michel Gandoger y publicado en Bull. Assoc. Franç. Bot. 5: 226, en el año 1902.​​",
+                "metadata": {
+                    "id": 1561,
+                    "title": "Viola cazorlensis",
+                    "categories": "['Flora de la provincia de Jaén', 'Parque natural de las Sierras de Cazorla, Segura y Las Villas']"
+                }
+            },
+            {
+                "content": "Plantas ornamentales, plantas introducidas en el parque natural, que se encuentran cultivadas en jardines y paseos. Algunas de fuerte poder de propagación, se han extendido por terraplenes y bordes de los caminos. Estepa, etapa máxima de la degradación del sotobosque mediterráneo, formada por espartos, albardines y otras plantas capaces de soportar cierta salinidad, como alcaparras y siemprevivas.​ Bosque de ribera, con fresnos, sauces, mimbres, avellanos, emborrachacabras, saúcos y durillos.",
+                "metadata": {
+                    "id": 1552,
+                    "title": "Jardín botánico Torre del Vinagre",
+                    "categories": "['Jardines botánicos de la provincia de Jaén', 'Santiago-Pontones', 'Parque natural de las Sierras de Cazorla, Segura y Las Villas']"
+                }
+            },
+            {
+                "content": "Descripción Pequeña mata herbácea acaule de no más de 10 cm de altura, densamente blanco-tomentosa, de hojas imparipinnadas dispuesta en roseta, con los foliolos enteros, subenteros o pinnatipartidos, en inflorescencias en umbelas de 2 a 6 flores zigomorfas pentámeras, con pétalos desiguales blanco rosados de los cuales los dos superiores presentan una mancha de color púrpura en la mitad basal.",
+                "metadata": {
+                    "id": 2570,
+                    "title": "Erodium astragaloides",
+                    "categories": "['Flora de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "En primavera, en diversos lugares, florecen orquídeas. El roble melojo Se conoce como rebollo, marojo o melojo. Es éste un pequeño roble, más rústico y frugal que sus “hermanos mayores”, que se extiende por casi toda la península ibérica excepto la zona norte (y precisamente los Pirineos). El roble melojo es el tipo de roble que más aguanta el frío y la sequedad estival.",
+                "metadata": {
+                    "id": 2488,
+                    "title": "Parque natural de la Sierra de Cardeña y Montoro",
+                    "categories": "['Sierra Morena']"
+                }
+            },
+            {
+                "content": "El parque natural encierra una de las floras más ricas de toda la cuenca mediterránea. De las más de 1300 especies catalogadas, 24 son endémicas de este territorio, como la violeta de Cazorla (Viola cazorlensis), la singular planta carnívora (Pinguicula vallisnerifolia), y otras como Geranium cazorlense o la Aquilegia pyrenaica ssp. cazorlensis.",
+                "metadata": {
+                    "id": 1540,
+                    "title": "Parque natural de las Sierras de Cazorla, Segura y Las Villas",
+                    "categories": "['Parque natural de las Sierras de Cazorla, Segura y Las Villas']"
+                }
+            }
+        ],
+        "reference": "La Viola cazorlensis es una especie endémica que crece en la Sierra de Cazorla, Segura y las Villas.",
+        "reference_contexts": "La Violeta de Cazorla o Viola cazorlensis es una especie endémica de la Sierra de Cazorla, Segura y las Villas, de carácter rupícola florece en primavera sobre las rocas calizas de la Sierra. También se han encontrado ejemplares en las vecinas Sierra Mágina y Sierra Del Segura. Taxonomía Viola cazorlensis fue descrita por Michel Gandoger y publicado en Bull. Assoc. Franç. Bot. 5: 226, en el año 1902."
+    },
+    "test_20": {
+        "question": "¿Cuánto pesa una serrana?",
+        "query": "¿Cuánto pesa una serrana?",
+        "id_context": 2566,
+        "retrieved_contexts": [
+            {
+                "content": "Tiene unos 50-70 cm de altura en la cruz y una cola de 12-14 cm. Los machos pesan entre 11 y 20 kg y las hembras menores, entre 9 y 12 kg, aunque puede haber grandes diferencias de unos ejemplares a otros. Especie endémica de la península ibérica. En la actualidad solo habita en las Sierras de Cardeña y Andújar (Sierra Morena) y en el área de Doñana. Se calcula que quedan unos 200 ejemplares.",
+                "metadata": {
+                    "id": 2488,
+                    "title": "Parque natural de la Sierra de Cardeña y Montoro",
+                    "categories": "['Sierra Morena']"
+                }
+            },
+            {
+                "content": "El nombre 1300 hace referencia a la capacidad de carga del modelo, de 1,3 toneladas. Podía equipar, igual que el modelo del que deriva, dos motores tetracilíndricos, uno de ciclo Otto y el otro de ciclo Diésel, ambos con un cubicaje de 2286 cm³, con cilindros de 90,5 mm de diámetro y 88,9 mm de carrera.",
+                "metadata": {
+                    "id": 1921,
+                    "title": "Santana 1300",
+                    "categories": "['Santana Motor']"
+                }
+            },
+            {
+                "content": "Un costal es un saco de arpillera que no sólo servía para contener y transportar mercancía (habitualmente grano, frutas con cáscara dura o alimentos en general con gran consistencia), sino que también servía de medida para su contenido; este saco se enrolla sobre un relleno alargado y mullido (\"morcillo\") que será donde se apoye el peso a portar quedando a la altura de las cervicales.",
+                "metadata": {
+                    "id": 1012,
+                    "title": "Costaleros del Mayor Dolor",
+                    "categories": "['Semana Santa en Linares']"
+                }
+            },
+            {
+                "content": "La corona también es de esta época, realizada en “plata de ley con sobredorado”. Lo más valioso del ajuar es la cruz de plata del taller de León de Jaén, con un peso de 28 libras y 14 onzas, fechada en 1864, con un coste de 4.650 pesetas. El peso del metal sería el equivalente a unos 13 kilos con 282,5 gramos de hoy. No sería exagerado decir que la túnica de Viernes Santo y la cruz de plata de la hermandad se encuentran entre los objetos más preciados de toda la Semana Santa giennense.",
+                "metadata": {
+                    "id": 1409,
+                    "title": "Cofradía de Jesús Nazareno de Torredonjimeno",
+                    "categories": "['Cofradías de Semana Santa de la provincia de Jaén', 'Torredonjimeno']"
+                }
+            },
+            {
+                "content": "En ellas se puede describir su entrada de unos 80 a 100 metros de altura por otros 20 o 30 de anchura; en profundidades que varían de 100 a 200 metros. Capacidades suficientes para cobijar a todo un destacamento militar de 500 hombres con toda su artillería.",
+                "metadata": {
+                    "id": 2219,
+                    "title": "La Toba (Jaén)",
+                    "categories": "['Santiago-Pontones', 'Municipios desaparecidos de la provincia de Jaén', 'Localidades de la provincia de Jaén']"
+                }
+            }
+        ],
+        "reference": "Una pajuna o serrana puede pesar alrededor de 600 kilos en el caso de los machos, y 375 kilos en el caso de las hembras.",
+        "reference_contexts": "La pajuna o serrana es una raza vacuna española autóctona de Andalucía. Se distribuye por las provincias de Granada y Jaén. Con un peso de entre 375 kilos en hembras y 600 kilos en machos,​ esta raza posee un pelaje castaño con zonas oscurecidas; su cabeza es desproporcionadamente grande y su cara larga y recta. Utilizada para la tracción y la producción de carne."
+    },
+    "test_21": {
+        "question": "¿Cuál es la altura de Jabalcuz?",
+        "query": "¿Cuál es la altura de Jabalcuz?",
+        "id_context": 1520,
+        "retrieved_contexts": [
+            {
+                "content": "El cerro se encuentra en la última rama del macizo de Jabalcuz, que forma parte de la Sierra de La Grana. La cima tiene una altura de 700 metros sobre el nivel del mar, cuya superficie abarca unos 70 metros de longitud, con una inclinación de este a oeste. Las zonas del Norte y el Este descienden con desigual brusquedad hasta los 400 metros, las zonas Oeste y Sur tienen una elevación mayor con respecto al entorno de 10 metros y en las cuales además se encuentra la muralla.",
+                "metadata": {
+                    "id": 1340,
+                    "title": "Cerro Miguelico",
+                    "categories": "['Yacimientos arqueológicos de la provincia de Jaén', 'Bienes de interés cultural de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "En los sillares del encadenamiento angular se observan dos marcas de cantero. Las anchas almenas de la torre se conservan hoy cegadas, sirviendo de apoyo a un tejado a cuatro aguas construido ex novo.​ Historia En los alrededores del castillo abundan los yacimientos iberorromanos a pie de monte. El lugar de Jarafe fue concedido por Alfonso X en 1269 a los treinta y tres caballeros pobladores del Alcázar de Baeza.",
+                "metadata": {
+                    "id": 1251,
+                    "title": "Castillo de Jarafe",
+                    "categories": "['Baeza', 'Castillos de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Jabalquinto es una localidad y municipio español de la provincia de Jaén, Andalucía. Se encuentra a 496 m de altitud y 38 km al norte de la capital provincial. Pertenece a la comarca de Sierra Morena. Tiene 2.013 habitantes (según datos del INE de 2021), sobre un término municipal de 73,24 km². Sus habitantes reciben el gentilicio de jabalquinteños, o el menos habitual de gevalcantíes. Entre sus paisanos de cierto relieve, puede destacarse a Paco Nájera.",
+                "metadata": {
+                    "id": 2390,
+                    "title": "Jabalquinto",
+                    "categories": "['Jabalquinto']"
+                }
+            },
+            {
+                "content": "La Torre de la Cabeza es una atalaya o torreón circular que se encuentra en el término municipal de Pegalajar, en la comarca de Sierra Mágina, provincia de Jaén, a una altitud de 611 m. Descripción La atalaya es un torreón de mampostería de aspecto algo rechoncho. La altura de la torre es de unos 8 metros aproximadamente. Su base es cilíndrica, apoyándose sobre un pronunciado talud, que tiene en su parte más baja un perímetro de 25,8 metros.",
+                "metadata": {
+                    "id": 1303,
+                    "title": "Torre de la Cabeza",
+                    "categories": "['Torres defensivas de la provincia de Jaén', 'Bienes de interés cultural de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "En la falda noroeste de la sierra, término municipal de Torredelcampo, se encuentra el espacio natural de Cerro Miguelico, donde se localiza el bosque de la Bañizuela. Toponimia El arabista español Asín Palacios planteaba el origen del nombre Jabalcuz de la derivación del nombre árabe yabal al-kūz (جبل الكوز) o «monte de la jarra», basándose en la semejanza final del topónimo con el nombre árabe kūz (\"jarra\").",
+                "metadata": {
+                    "id": 1528,
+                    "title": "Jabalcuz",
+                    "categories": "['Espacios naturales de Jaén', 'Montañas de la provincia de Jaén']"
+                }
+            }
+        ],
+        "reference": "El monte de Jabalcuz tiene una altitud de 1614 metros sobre el nivel del mar.",
+        "reference_contexts": "Se sitúa entre los términos municipales de Los Villares, Jamilena, Torredelcampo y Jaén, y su altitud es de 1614 m s. n. m. Jabalcuz suele ser considerada erróneamente de manera popular como un volcán,​ siendo en realidad una elevación caliza de origen sedimentario donde existen manantiales termales de origen kárstico, cuyas aguas se calientan debido al gradiente geotérmico.​ La existencia de estos manantiales termales determinó la construcción del antiguo balneario y jardines de Jabalcuz."
+    },
+    "test_22": {
+        "question": "¿Cómo está organizado el Pleno de Jaén?",
+        "query": "¿Cómo está organizado el Pleno de Jaén?",
+        "id_context": 1456,
+        "retrieved_contexts": [
+            {
+                "content": "La Junta de Gobierno de la Diputación Provincial de Jaén está integrada por los diputados y diputadas que tienen asignada un área de trabajo dentro de la Diputación. Grupos políticos y diputados Según establece la ley, el número de diputados dependerá de la población de la provincia. En nuestro caso, encontrándonos en el tramo entre 500 000 y 1 000 000 de habitantes, son veintisiete los puestos en la mesa del Salón de Plenos.",
+                "metadata": {
+                    "id": 1465,
+                    "title": "Diputación Provincial de Jaén",
+                    "categories": "['Diputación Provincial de Jaén']"
+                }
+            },
+            {
+                "content": "Históricamente, la feria tradicional de Jaén se celebraba en conmemoración de la Virgen de Agosto, privilegio concedido por Enrique IV de Castilla a la ciudad de Jaén el día 23 de junio de 1453, y en esa fecha aún faltaban cinco años para que el Condestable llegara a Jaén, y el objetivo de esta feria era aglutinar y ordenar, por motivos fiscales, la multitud de ferias y mercados que se venían celebrando en distintos puntos del Reino de Jaén.",
+                "metadata": {
+                    "id": 935,
+                    "title": "Feria de San Lucas (Jaén)",
+                    "categories": "['Cultura de Jaén', 'Fiestas de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Al pabellón pueden acudir tanto los estudiantes de la Universidad de Jaén como los que no lo son. Consta de una pista polideportiva (fútbol sala, baloncest, voleibol), dos gimnasios (musculación y cardiovascular) con vistas al campus, vestuarios, zona de administración, enfermería, aseos y almacén.​ Medios de comunicación A nivel de prensa escrita, en la ciudad pueden adquirirse los periódicos nacionales e internacionales de mayor difusión, así como los periódicos provinciales Diario Jaén e Ideal Jaén.",
+                "metadata": {
+                    "id": 2178,
+                    "title": "Linares (Jaén)",
+                    "categories": "['Linares']"
+                }
+            },
+            {
+                "content": "Restablecido el régimen liberal, se forma en Jaén un nuevo ayuntamiento, se rehabilita la figura del jefe político y se convocan elecciones a diputados provinciales para instalar de nuevo la Diputación. Al igual que ocurre con el primer periodo constitucional, al no conservarse la documentación producida en esta segunda época, no sabemos que día concreto se constituyó la Diputación de Jaén pero sí que ya estaba instalada a finales de abril, con los mismos diputados que cesaron en 1814.",
+                "metadata": {
+                    "id": 1465,
+                    "title": "Diputación Provincial de Jaén",
+                    "categories": "['Diputación Provincial de Jaén']"
+                }
+            },
+            {
+                "content": "La dirección fue llevada desde la misma sede del obispado de Jaén por la autoridad eclesiástica, competente, quien controlaba y decidía las obras que se habían de realizar, quién las llevaría a cabo, cómo y cuando, regulando de esta manera hasta los mínimos detalles de la obra de la iglesia. Esta centralización se hace patente en los encargos y asignación de proyectos constructivos por parte de los gobernadores y provisores generales del obispado.",
+                "metadata": {
+                    "id": 1167,
+                    "title": "Iglesia de Santa María la Mayor (Alcaudete)",
+                    "categories": "['Bienes de interés cultural de la provincia de Jaén', 'Iglesias de la provincia de Jaén']"
+                }
+            }
+        ],
+        "reference": "Después de las elecciones municipales de 2023, el Pleno de Jaén está compuesto por 27 concejales de los que 11 son de PSOE, otros 11 de PP, 3 de Jaén Merece Más y 2 de Vox.",
+        "reference_contexts": "Órganos de gobierno Pleno El Pleno de Jaén está compuesto por 27 concejales elegidos democráticamente cada cuatro años. Después de las elecciones municipales de 2023, forman parte de ella 11 concejales del Partido Socialista Obrero Español, 11 del Partido Popular, 3 de Jaén Merece Más y 2 de Vox. Junta de Gobierno La Junta de Gobierno de Jaén se encarga de administrar los impuestos municipales, para costear los servicios públicos y la construcción de infraestructuras. Está presidida por el alcalde."
+    },
+    "test_23": {
+        "question": "¿Qué localidades constituyen el inicio y fin de la A-44?",
+        "query": "¿Qué localidades constituyen el inicio y fin de la A-44?",
+        "id_context": 2621,
+        "retrieved_contexts": [
+            {
+                "content": "El nuevo tramo, que queda más al oeste del original, constituyó el nuevo trazado de la A-44 y ayudó a descongestionar el tramo urbano de la autovía en el Área Metropolitana de Granada.​​ Punto de finalización de la A-44 (La Y invertida) El tramo de la A-44 Vélez de Benaudalla-La Gorgoracha termina en La Gorgoracha, punto desde el que parten dos tramos de la autovía del Mediterráneo: Hacia el oeste el tramo La Gorgoracha-Lobres, unido desde 2014 al resto de los tramos hasta Málaga y con un acceso (salida 325) a Motril y Almería, mediante la GR-14 y N-340.",
+                "metadata": {
+                    "id": 2629,
+                    "title": "Autovía de Sierra Nevada-Costa Tropical",
+                    "categories": "['Red de carreteras del Estado en Jaén']"
+                }
+            },
+            {
+                "content": "El foso o zanja. Tipo 1 El trazado de la antigua carretera A-316 dividió el poblado y el foso en una Zona Este y otra Oeste. En cada zona se abrieron en el foso 2 y 11 secciones respectivamente. El foso o zanja está excavada en la base geológica, ubicada en la parte más alta del poblado. De morfología circular ligeramente irregular y tendencia hexagonal mide unos 70 m de diámetro. Su perímetro de algo más de 235 m está segmentado por los accesos al recinto y abarca una superficie de 4450 m².",
+                "metadata": {
+                    "id": 2028,
+                    "title": "Poblado calcolítico Venta del Rapa",
+                    "categories": "['Mancha Real', 'Yacimientos arqueológicos de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Son las carreteras que forman los ejes Norte-Sur, N-IV-Bailén-N-323, y Oeste-Este, N-IV-Bailén y N-322, de titularidad estatal.",
+                "metadata": {
+                    "id": 1,
+                    "title": "Provincia de Jaén (España)",
+                    "categories": "['Provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Una vez recuperada su trayectoria, sigue su camino dando acceso a Nacimiento, ya con dirección Gérgal y Alboloduy. Poco después, queda dividida en la AL-3407 (tramo antiguo o N-324.ª) y la A-1075 (N-324), llegando a conectar de nuevo pasado el pueblo de Alhabia.",
+                "metadata": {
+                    "id": 2634,
+                    "title": "N-324",
+                    "categories": "['Red de carreteras del Estado en Jaén']"
+                }
+            },
+            {
+                "content": "Los restos de la construcción emergen en las épocas de estío. También pasa sobre las colas de los embalses de Guadalén y la Fernandina. Hasta hace unos años, la A-301 contaba también con los kilómetros de la actual A-401 que une Úbeda (Jaén) (N-322) con Guadix (Granada) (A-92). Es por esto que en algunos lugares aún se pueden encontrar rótulos del tipo \"A-301 La Carolina - Guadix\".",
+                "metadata": {
+                    "id": 2609,
+                    "title": "A-301",
+                    "categories": "['Red de carreteras autonómicas en Jaén']"
+                }
+            }
+        ],
+        "reference": "La autovía de Sierra Nevada-Costra Tropical o A-44 tiene como inicio la localidad de Bailén en Jaén, y la localidad de La Gorgoracha en Granada como fin.",
+        "reference_contexts": "La autovía de Sierra Nevada-Costa Tropical o A-44​​ es una autovía de España dependiente de la Red de Carreteras del Estado que comunica Bailén (Jaén) con La Gorgoracha (Granada). Si bien tradicionalmente se le ha denominado \\\"autovía Bailén-Motril\\\", dicha denominación es errónea, pues a diferencia de su predecesora la N-323, solo discurre entre Bailén y La Gorgoracha. También es incorrecta la denominación \\\"autovía Granada-Motril\\\"."
+    },
+    "test_24": {
+        "question": "¿Qué línea de tren debería coger para ir desde Jaén a Madrid?",
+        "query": "¿Qué línea de tren debería coger para ir desde Jaén a Madrid?",
+        "id_context": 2571,
+        "retrieved_contexts": [
+            {
+                "content": "La línea de alta velocidad Madrid-Alcázar de San Juan-Jaén​ es una línea de alta velocidad de España de uso mixto entre Jaén y Alcázar de San Juan, y de uso exclusivo para pasajeros entre Alcázar de San Juan y Madrid. Parte de la línea de alta velocidad Madrid-Sevilla en Mora (Toledo). Se encuentra actualmente en construcción, y comunicará Madrid y Castilla-La Mancha con Jaén a través del paso de Despeñaperros.",
+                "metadata": {
+                    "id": 2581,
+                    "title": "Línea de alta velocidad Madrid-Alcázar de San Juan-Jaén",
+                    "categories": "['Ferrocarril en la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Junto al tranvía de Jaén se desarrollaron otros sistemas ferroviarios similares en otras provincias: el tren tranvía de la Bahía de Cádiz, el metro de Granada, el metro de Sevilla y el metro de Málaga.​ El trazado, de 4,7 kilómetros y 10 estaciones, recorrería la ciudad desde el centro hasta la zona industrial situada a las afueras de la capital jienense, cubriendo los principales puntos de interés ciudadano como la Ciudad Universitaria, los centros hospitalarios y la estación de ferrocarril.​ De las tres fuerzas representadas en el consistorio, el proyecto contó con el apoyo del PSOE e Izquierda Unida pero encontró un fuerte rechazo por parte de la oposición del Partido Popular desde el primer momento, que realizó una campaña en contra de la implantación del tranvía en la ciudad mediante una recogida de firmas.​ Construcción El proyecto quedó en fase de estudio hasta diciembre de 2008.",
+                "metadata": {
+                    "id": 1998,
+                    "title": "Tranvía de Jaén",
+                    "categories": "['Tranvía de Jaén']"
+                }
+            },
+            {
+                "content": "La estación cuenta con un refugio y aparcamiento. Servicios ferroviarios Media Distancia Los servicios de Media Distancia de Renfe ofrecen dos relaciones diarias por sentido entre Madrid y Jaén gracias a trenes MD. Pese a circular al menos dos trenes diarios por sentido en la relación Córdoba/Jaén, ninguno efectúa parada en la estación.",
+                "metadata": {
+                    "id": 1196,
+                    "title": "Estación de Mengíbar-Artichuela",
+                    "categories": "['Mengíbar', 'Estaciones ferroviarias de la provincia de Jaén', 'Línea Espeluy-Jaén']"
+                }
+            },
+            {
+                "content": "La entrada a Madrid suele tener muchísimo tráfico, puede evitarse tomando la R-4 o también la CM-42 hasta Toledo y luego AP-41 o A-42 (esta también suele tener mucho tráfico) hasta Madrid. Paso de Despeñaperros: Puede evitarse tomando la A-43/A-41 hasta Puertollano y luego la N-420 hasta Montoro. A partir de ahí, la A-4 a Sevilla o la A-309 a Bujalance.",
+                "metadata": {
+                    "id": 2630,
+                    "title": "Autovía del Sur",
+                    "categories": "['Red de carreteras del Estado en Jaén']"
+                }
+            },
+            {
+                "content": "La línea 76 (Cádiz - Sevilla - Córdoba - Jaén) es una línea de ferrocarril de Media Distancia tipo Avant que recorre la comunidad española de Andalucía. Discurre por vías convencionales electrificadas a 3.000 V CC entre Cádiz y Sevilla y entre Córdoba y Jaén, y por vías de alta velocidad electrificadas a 25.000 V CA de ancho internacional entre Sevilla y Córdoba.",
+                "metadata": {
+                    "id": 2578,
+                    "title": "Línea 76 (Media Distancia)",
+                    "categories": "['Ferrocarril en la provincia de Jaén']"
+                }
+            }
+        ],
+        "reference": "Para viajar entre Jaén y Madrid, está habilitada la vía ferroviaria Línea 58 de media distancia.",
+        "reference_contexts": "La línea 58 (Madrid - Jaén) es una línea ferroviaria realizada por servicios MD que recorre la mitad sur de España.​ Discurre por vías convencionales electrificadas a 3 000 V CC de ancho ibérico, pertenecientes a Adif. Es operada por la sección de Media Distancia de Renfe Operadora mediante trenes Serie 499.​ Anteriormente era conocida como línea R8."
+    },
+    "test_25": {
+        "question": "¿Cómo se llama el actual presidente de Andalucía?",
+        "query": "¿Cómo se llama el actual presidente de Andalucía?",
+        "id_context": -1,
+        "retrieved_contexts": [
+            {
+                "content": "Hermenegildo Altozano Moraleda (Baños de la Encina, 23 de diciembre de 1916-Jerez de la Frontera, 12 de septiembre de 1981) fue un político y militar español. Jurídico militar, durante la Dictadura franquista llegó a ejercer diversos cargos. Tuvo una destacada actuación como gobernador civil de Sevilla.​ Biografía Carrera profesional Nacido en la localidad jienense de Baños de la Encina el 24 de diciembre de 1916,​ en el seno de una familia de grandes propietarios agrícolas.",
+                "metadata": {
+                    "id": 855,
+                    "title": "Hermenegildo Altozano Moraleda",
+                    "categories": "['Nacidos en Baños de la Encina']"
+                }
+            },
+            {
+                "content": "En una palabra: éste es el “Obispo de Jaén”. Sin más. Basta esta generalidad para que todos los españoles y bastantes extranjeros sepan que se habla de Antolín Monescillo y Viso.",
+                "metadata": {
+                    "id": 2329,
+                    "title": "Antolín Monescillo",
+                    "categories": "['Obispos de Jaén']"
+                }
+            },
+            {
+                "content": "Secretario general de Vivienda en Andalucía,​ desde abril del 2010 hasta el 16 de febrero de 2012. Diputado del PSOE-A en el Parlamento de Andalucía en las elecciones del 25 de marzo de 2012 por la provincia de Sevilla. El 19 de junio de 2018 se convierte en el delegado del Gobierno en Andalucía.​​ Es relevado en marzo de 2019 para presentarse a las elecciones generales en la provincia de Sevilla. Elegido al Congreso, es designado vicepresidente segundo de la Camára en mayo.",
+                "metadata": {
+                    "id": 2089,
+                    "title": "Alfonso Rodríguez Gómez de Celis",
+                    "categories": "['Profesores de la Universidad Internacional de Andalucía']"
+                }
+            },
+            {
+                "content": "Le es otorgado por su brillante trayectoria educativa. Nombrado el 23 de enero de 1957.​ 1968 Juan Pasquau Guerrero, profesor, periodista, escritor y cronista de Úbeda, nacido en Úbeda. Le es otorgado por su extensa labor docente y sus estudios sobre Úbeda. Nombrado el 20 de junio de 1968.​ 1995 José Gámez Martínez, sindicalista y político socialista, nacido en Úbeda. Le es otorgado a título póstumo —tras ser alcalde de Úbeda (1979-1983)— como reconocimiento por su lucha por la libertad y la democracia.",
+                "metadata": {
+                    "id": 2106,
+                    "title": "Hijo Predilecto de Úbeda",
+                    "categories": "['Ayuntamiento de Úbeda']"
+                }
+            },
+            {
+                "content": "Rodrigo: Señor de Ibros, comendador de Yeste y Taibilla, Trece de la Orden de Santiago, alcaide de Pucherna, corregidor de las Ciudades de Baza, Guadix, Almería, Purchena y Vera, embajador de Portugal, mayordomo mayor de la reina Juana, siendo infanta. Diego: Murió de corta edad. Jorge: Señor de Belmontejo, comendador de Montizón y Chiclana y Trece Orden de Santiago. Capitán de hombres de armas de las Guardias de Castilla. Poeta universal, inmortalizado por las Coplas por la muerte de su padre.",
+                "metadata": {
+                    "id": 271,
+                    "title": "Mencía de Figueroa",
+                    "categories": "['Fallecidos en Segura de la Sierra', 'Nacidos en Beas de Segura', 'Nobles de la provincia de Jaén']"
+                }
+            }
+        ],
+        "reference": "El actual presidente de la comunidad de Andalucía es Juanma Moreno Bonilla.",
+        "reference_contexts": NaN
+    },
+    "test_26": {
+        "question": "¿Qué ingredientes lleva el cocido?",
+        "query": "¿Qué ingredientes lleva el cocido?",
+        "id_context": -1,
+        "retrieved_contexts": [
+            {
+                "content": "Características Los ingredientes de este plato son todos procedentes de la provincia de Jaén, el principal ingrediente son las migas de pan (asentadas y rociadas con salmuera).​ Los ingredientes de acompañamiento son el aceite de oliva, los ajos, el chorizo (o morcilla y gran cantidad de guarnición de rábanos, cebolletas, migas de bacalao, uvas, aceitunas, melón, sardinas y pimientos fritos. Las migas se preparan en grandes sartenes calentadas al fuego.",
+                "metadata": {
+                    "id": 1440,
+                    "title": "Migas serranas",
+                    "categories": "['Gastronomía de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Antiguamente se realizaba en un mortero y en la actualidad se emplean batidoras. Es habitual que en otra parte se ponga agua a hervir con orégano, sal y vinagre.​ A esta mezcla, una vez comience a hervir, se le vierten huevos batidos, una vez cuajado, se le incorpora el conjunto a la fuente. Después de moverlo todo bien, se sirve. Existen diversas variantes de la receta que imcluyen embutidos diversos, bien sean chorizos o morcillas.",
+                "metadata": {
+                    "id": 1429,
+                    "title": "Carnerete",
+                    "categories": "['Gastronomía de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Otros ingredientes posibles incluyen aceitunas, huevos, cebolla o cebolletas, ajo, vinagre, pimentón, patatas o tomate. Estas versiones se sirven como primer plato frío, muy sabroso y nutritivo.",
+                "metadata": {
+                    "id": 1451,
+                    "title": "Remojón",
+                    "categories": "['Gastronomía de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Esta carne suele mezclarse con pan blanco y leche fresca. La masa se completa con huevo, nuez moscada y pimienta. Todo ello se embute en tripa de cerdo y tras ello se escalda durante un cuarto de hora (al igual que las morcillas, de ahí su nombre). Algunas morcillas blancas se aliñan con azafrán lo que les confiere un color amarillo.",
+                "metadata": {
+                    "id": 1441,
+                    "title": "Morcilla blanca",
+                    "categories": "['Gastronomía de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "El carnerete es original del municipio cordobés de Cañete de las Torres. Características El plato se elabora a base de pan frito en abundante aceite de oliva. En el mismo aceite se suele freír un ajo y un pimiento seco. El pan, el ajo y el pimento se suele mezclar con un caldo y se maja. Antiguamente se realizaba en un mortero y en la actualidad se emplean batidoras.",
+                "metadata": {
+                    "id": 1429,
+                    "title": "Carnerete",
+                    "categories": "['Gastronomía de la provincia de Jaén']"
+                }
+            }
+        ],
+        "reference": "El cocido es un guiso hecho en olla que lleva carne, embutido, verduras, patatas o zanahorias y principalmente alguna legumbre.",
+        "reference_contexts": NaN
+    },
+    "test_27": {
+        "question": "¿De qué trata el libro de El capitán Alatriste?",
+        "query": "¿De qué trata el libro de El capitán Alatriste?",
+        "id_context": -1,
+        "retrieved_contexts": [
+            {
+                "content": "Es en esta batalla donde suena \"La Madrugá\" como marcha agónica del ejército y donde el ya viejo capitán Diego Alatriste muere e Iñigo, para la defensa final asume como alférez. La trama de la película hace un breve recorrido por partes de algunos de los cinco libros publicados hasta el estreno (no hay mención alguna a \"Limpieza de sangre\", el segundo libro), manteniendo como hilo argumental de la misma a los personajes principales.",
+                "metadata": {
+                    "id": 1482,
+                    "title": "Alatriste",
+                    "categories": "['Películas rodadas en la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Compuso además, sin que llegara a publicarse,​ un Arte de marear (1564), verdadera exposición de los conocimientos del momento donde recogió cómo se trazaban las meridianas en las cartas de navegación, el uso del astrolabio, las alteraciones de la aguja o el uso de la ballesta para la estrella polar; un Tratado de matemáticas, Alcalá, 1573, un Tratado de Geometría, Alcalá, 1573, en que su fuente principal es el General trattato (1560) de Niccolò Fontana Tartaglia, entre otros​ y unas Reglas para contar sin pluma y de reducir unas monedas castellanas a otras entre otras curiosas obras.​ Como mitógrafo fue autor de un libro muy reimpreso en su tiempo, la Philosofia secreta, Madrid, 1585, un tratado de mitología grecorromana de sesgo humanístico donde se procura extraer una enseñanza moralizadora de cada mito.",
+                "metadata": {
+                    "id": 904,
+                    "title": "Juan Pérez de Moya",
+                    "categories": "['Nacidos en Santisteban del Puerto']"
+                }
+            },
+            {
+                "content": "Las reseñas de su obra destacan la elaboración cuidada y bien documentada de sus tramas, sus bellas descripciones, una narración fluida, no exenta de poesía y humor, y dominio de la intriga y el suspense. Ha sido llamada «Dama del Misterio de la Literatura Infantil y Juvenil».​​ Obras destacadas El ladrón de salchichón. SM, 2003 - 61 páginas ISBN 8434893843h, ISBN 9788434893849hola Hänsel y Sara. Leer-e, 9 de oct. de 2014 ISBN 8415370148h, ISBN 9788415370147h Yuri, el pincel. Leer-e, 9 de abr. de 2014.",
+                "metadata": {
+                    "id": 781,
+                    "title": "Luisa Villar Liébana",
+                    "categories": "['Nacidos en Torredonjimeno']"
+                }
+            },
+            {
+                "content": "Y aún más, son referidas las aventuras de las novelas El capitán Alatriste, Limpieza de sangre, El sol de Breda, El oro del rey y El caballero del jubón amarillo, y también se le da un desenlace al protagonista, anticipando una novela posterior aún no editada. Para espectadores poco avisados, esta condensación puede resultar una veloz sucesión de hechos con escasa profundización en cada uno.",
+                "metadata": {
+                    "id": 1482,
+                    "title": "Alatriste",
+                    "categories": "['Películas rodadas en la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "Este documento, escrito por el Cronista del rey Alfonso XI de Castilla, describe todo un marco histórico que es considerado como un vehículo indudable para estudiar la España de la épocaː ​​ Caras de Bélmez Se trata de uno de los fenómenos misterioso más paradigmáticos cuya fama ha trascendido ampliamente los límites de Sierra Mágina.",
+                "metadata": {
+                    "id": 2138,
+                    "title": "Bélmez de la Moraleda",
+                    "categories": "['Bélmez de la Moraleda', 'Localidades de la provincia de Jaén']"
+                }
+            }
+        ],
+        "reference": "El libro de El capitán Alatriste, escrito por Arturo Pérez-Reverte, trata sobre un soldado veterano de los tercios de Flandes que malvive en el Madrid del siglo XVII, alquilando su espada a todo aquel que la necesite.",
+        "reference_contexts": NaN
+    },
+    "test_28": {
+        "question": "¿Quién es el autor de la canción Un beso y una flor?",
+        "query": "¿Quién es el autor de la canción Un beso y una flor?",
+        "id_context": -1,
+        "retrieved_contexts": [
+            {
+                "content": "El 18 de octubre salió a la luz el primer single, \"Yo sólo quería escribir una canción de amor\". El 29 de noviembre, el segundo sencillo \"Tus michids\" se lanzó y a la semana siguiente la cantante anunció la fecha de lanzamiento del disco, \"Lento Ternura\" para el 21 de febrero de 2025. Los singles \"Quién dijo\" y \"Demasiadas canciones\" salieron el 17 de enero y el 11 de febrero, respectivamente.",
+                "metadata": {
+                    "id": 71,
+                    "title": "Zahara (cantante)",
+                    "categories": "['Escritores de la provincia de Jaén', 'Cantantes de la provincia de Jaén', 'Nacidos en Úbeda']"
+                }
+            },
+            {
+                "content": "Su poesía demuestra su jovialidad con un estilo libre y personalísimo; la sencillez, espontaneidad, humildad y humor se mezclan con el lirismo, un conocimiento exquisito de la lengua, frecuente uso de metáforas y una simbología propia, la presencia de los cinco sentidos a través de imágenes sensoriales, su amor a las ciudades de Ándujar y Écija (\"madre\" y \"novia\" respectivamente), la religiosidad, el protagonismo de la belleza de la mujer y su delicadeza, la musicalidad y sonoridad de esdrújulas.",
+                "metadata": {
+                    "id": 505,
+                    "title": "Tomás Beviá Aranda",
+                    "categories": "['Nacidos en Andújar']"
+                }
+            },
+            {
+                "content": "Tema de la banda Sonora del “Heroe Local” de Mark Knopfler y una de las marchas más características. El Príncipe de Egipto. Es la adaptación del tema principal, “When you believe”, que popularizaran Mariah Carey y Whitney Houston. Tannhaüser. Obertura de la opera Tannhaüser, en donde sus crescendos / descrescendos se adaptan perfectamente a la madera y el viento de la Banda. Benedictus.",
+                "metadata": {
+                    "id": 1010,
+                    "title": "Banda de Cabecera del Nazareno de Linares",
+                    "categories": "['Semana Santa en Linares']"
+                }
+            },
+            {
+                "content": "Cuando yo me llamaba Harry, novela americana, 1953. Diario de un niño tonto, 1949. Romeo y Julita, basada en la obra teatral Romeo y Julita Martínez, función con fantasma, 19... Memorias de mí, 1966. Memorias de un niño tonto, 1981 (póstuma). Premios Medallas del Círculo de Escritores Cinematográficos​",
+                "metadata": {
+                    "id": 695,
+                    "title": "Tono (humorista)",
+                    "categories": "['Nacidos en Jaén']"
+                }
+            },
+            {
+                "content": "Entre sus canciones de esos tiempos se destacan «Cuando tú no estás», «Mi gran noche», «Digan lo que digan», «Tema de amor», «Cierro mis ojos», «Balada de la trompeta» (cuyo primer verso daría título a una película de Álex de la Iglesia) y «Desde aquel día».",
+                "metadata": {
+                    "id": 117,
+                    "title": "Raphael (cantante)",
+                    "categories": "['Cantantes de la provincia de Jaén', 'Nacidos en Linares (Jaén)', 'Doctores honoris causa por la Universidad de Jaén']"
+                }
+            }
+        ],
+        "reference": "El autor de la canción Un beso y una flor es Nino Bravo.",
+        "reference_contexts": NaN
+    },
+    "test_29": {
+        "question": "¿En qué equipo juega actualmente Leo Messi?",
+        "query": "¿En qué equipo juega actualmente Leo Messi?",
+        "id_context": -1,
+        "retrieved_contexts": [
+            {
+                "content": "Debutó con su filial en Segunda División B con tan sólo dieciocho años. Allí coincidió con jugadores de la talla de Messi, Cesc Fábregas o Gerard Piqué, en el Cadete B que enamoró por su buen fútbol y que se proclamó campeón de España con la conocida generación de 1987.​ Dos temporadas más tarde, firmó por el Terrasa debido al descenso de categoría del conjunto azulgrana.",
+                "metadata": {
+                    "id": 185,
+                    "title": "Julio de Dios",
+                    "categories": "['Futbolistas de la provincia de Jaén', 'Nacidos en Jabalquinto']"
+                }
+            },
+            {
+                "content": "Oscar Alfredo Ruggeri (Rosario, 26 de enero de 1962)​ es un exfutbolista, exentrenador y comentarista argentino. Jugó de defensa central. Actualmente forma parte del equipo periodístico de los programas ESPN F90 y ESPN Equipo F. En su carrera como futbolista jugó en clubes como Boca Juniors, River Plate, Vélez Sarsfield, San Lorenzo, Real Madrid y América de México.",
+                "metadata": {
+                    "id": 1810,
+                    "title": "Oscar Ruggeri",
+                    "categories": "['Futbolistas del Real Jaén Club de Fútbol']"
+                }
+            },
+            {
+                "content": "Ha jugado para el club Real Jaén CF en Andalucía, Melbourne Knights de Australia, y en Chile para Santiago Morning, Unión Española, equipo con el que logró ser reconocido por la IFFHS como el cuarto mayor goleador del globo en el año 2003 tras anotar 31 goles en total en el año y ser goleador de la Primera División en el torneo clausura con 21 goles, y en Fernández Vial en Chile, donde también fue goleador del torneo.",
+                "metadata": {
+                    "id": 1687,
+                    "title": "Gustavo Biscayzacú",
+                    "categories": "['Futbolistas del Real Jaén Club de Fútbol']"
+                }
+            },
+            {
+                "content": "Ya en la temporada 2008-2009 hace la pretemporada con el primer equipo del Jaén donde destacó como defensa y donde cuenta para el equipo de Carlos Terrazas. Características Gran defensor que puede jugar tanto de lateral derecho como de central. Es rápido en el corte, rápido en el juego aéreo y sabe sacar el balón jugado. Al final de su carrera futbolística semiprofesional, se afianzó en la posición de lateral derecho, dando muchas alegrías a la afición jienense por el cara a gol. Clubes",
+                "metadata": {
+                    "id": 1828,
+                    "title": "José Javier Valdivia Jaén",
+                    "categories": "['Futbolistas del Real Jaén Club de Fútbol']"
+                }
+            },
+            {
+                "content": "Asimismo, hizo de segundo de Luis Aragonés, durante la estancia del técnico de Hortaleza en Nervión. Hoy día forma parte del equipo técnico que dirige Monchi. Su nombre ya ha quedado grabado para siempre en uno de los lugares más insignes de la historia del Sevilla FC. Clubes",
+                "metadata": {
+                    "id": 1658,
+                    "title": "Manuel Ruiz Sosa",
+                    "categories": "['Entrenadores del Real Jaén Club de Fútbol']"
+                }
+            }
+        ],
+        "reference": "Actualmente, Lionel Messi juega en el Inter de Miami.",
+        "reference_contexts": NaN
+    },
+    "test_30": {
+        "question": "¿Cuál es el río más largo del mundo?",
+        "query": "¿Cuál es el río más largo del mundo?",
+        "id_context": -1,
+        "retrieved_contexts": [
+            {
+                "content": "Consiste en una conducción de 120 km, siete balsas de regulación y dos minicentrales hidroeléctricas para transportar 50 hm³ anuales..​ La presa La Presa del Negratín (1.984) es de tipo mixta, de Gravedad y Materiales sueltos con pantalla asfáltica, planta recta, tiene una altura sobre el cauce de 67 m y sobre cimientos de 75 m. La longitud de coronación es de 439 m y el ancho de coronación de 10 m, siendo el volumen total del cuerpo de la presa de 1061,11 m³.",
+                "metadata": {
+                    "id": 2458,
+                    "title": "Embalse del Negratín",
+                    "categories": "['Guadiana Menor']"
+                }
+            },
+            {
+                "content": "Tiene una longitud de 68 km según algunas fuentes.​ Toponimia El nombre del río procede del árabe wadi Fardis.​ Curso Nace en la sierra de Huétor, en el término municipal de Huétor Santillán, de la confluencia del arroyo de Prado Negro y el arroyo de las Perdices, aunque también recibe los aportes de otro grupo de manantiales de aguas termales de la zona de Diezma.",
+                "metadata": {
+                    "id": 2460,
+                    "title": "Río Fardes",
+                    "categories": "['Afluentes del Guadiana Menor']"
+                }
+            },
+            {
+                "content": "Su ribera se adorna de una exuberante vegetación en forma de bosques en galería que acogen a una fauna interesantísima, entre las que el visitante podrá disfrutar del lince, el lobo y la nutria. Sus 40 km de longitud lineal drenan este incomparable espacio natural ayudado por los arroyos Arenoso, Martín Gonzalo y Corcomé. La impronta silvestre del parque ha sido respetada por la acción humana, cuya presencia resulta mínima.",
+                "metadata": {
+                    "id": 2488,
+                    "title": "Parque natural de la Sierra de Cardeña y Montoro",
+                    "categories": "['Sierra Morena']"
+                }
+            },
+            {
+                "content": "Nadie ha logrado averiguar la profundidad de la laguna. [cita requerida] Los más viejos del lugar aseguran —en algún momento han metido una sonda que nunca ha llegado al fondo— que es un pozo con al menos 30 o 40 metros de profundidad. Además de la cascada más importante y que da nombre al paraje, si descendemos a la zona de acampada y merendero, se puede realizar otra ruta que nos conducirá a las otras dos cascadas: el Cimbarrillo y el Negrillo.",
+                "metadata": {
+                    "id": 2159,
+                    "title": "Aldeaquemada",
+                    "categories": "['Aldeaquemada', 'Localidades de la provincia de Jaén']"
+                }
+            },
+            {
+                "content": "La conducción cuenta con una longitud de 52,5 kilómetros y el cruce del río Almanzora se realiza mediante puentes-acueductos.",
+                "metadata": {
+                    "id": 2458,
+                    "title": "Embalse del Negratín",
+                    "categories": "['Guadiana Menor']"
+                }
+            }
+        ],
+        "reference": "El río más largo del mundo es el Amazonas.",
+        "reference_contexts": NaN
+    }
+}
