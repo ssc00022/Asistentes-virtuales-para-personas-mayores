@@ -14,10 +14,10 @@ from agent import Agent
 from tools import retrieval_augmented_generation
 
 
-class Server:
+class Backend:
     def __init__(self):
         # Instancia principal de FastAPI
-        self.app = FastAPI()
+        self.local_server = FastAPI()
 
         # Configura logging para mostrar errores o mensajes informativos en consola
         logging.basicConfig(level=logging.INFO)
@@ -67,12 +67,12 @@ class Server:
 
     def define_routes(self):
         # Endpoint raíz que indica si el servidor está operativo
-        @self.app.get("/")
+        @self.local_server.get("/")
         async def root():
             return {"message": "Servidor operativo"}
 
         # Endpoint que inicializa el agente con los datos del usuario
-        @self.app.post("/setup")
+        @self.local_server.post("/setup")
         async def setup(user_info: dict):
             """
             Inicializa el agente con la información personalizada del usuario y genera un mensaje de bienvenida.
@@ -106,7 +106,7 @@ class Server:
             }
 
         # Endpoint que recibe un archivo de audio, lo transcribe, genera respuesta y devuelve ambos
-        @self.app.post("/receive")
+        @self.local_server.post("/receive")
         async def receive(file: UploadFile = File(...)):
             """
             Recibe audio de entrada del usuario, lo transcribe y genera una respuesta hablada.
@@ -147,7 +147,7 @@ class Server:
                 return JSONResponse(status_code=500, content={"error": str(e)})
 
         # Endpoint que devuelve el audio generado
-        @self.app.get("/audio")
+        @self.local_server.get("/audio")
         def send_response_audio():
             """
             Devuelve el archivo de audio con la respuesta del asistente.
@@ -183,5 +183,5 @@ if __name__ == "__main__":
     public_url = ngrok.connect(port)
     print(f"Servidor alojado en: {public_url}")
 
-    server = Server()
-    uvicorn.run(server.app, host="0.0.0.0", port=port)
+    server = Backend()
+    uvicorn.run(server.local_server, host="0.0.0.0", port=port)
