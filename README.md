@@ -1,6 +1,6 @@
 # Desarrollo de asistentes virtuales personalizados para personas mayores mediante técnicas avanzadas de PLN
 
-El presente repositorio contiene el código fuente del TFM titulado "Desarrollo de asistentes virtuales personalizados para personas mayores mediante técnicas avanzadas de PLN", realizado por el alumno Samuel Sánchez Carrasco, estudiante en el Máster de Ingeniería informática en la Universidad de Jaén.
+El presente repositorio contiene el código fuente del TFM titulado "Desarrollo de asistentes virtuales personalizados para personas mayores mediante técnicas avanzadas de PLN", realizado por el alumno Samuel Sánchez Carrasco, estudiante del Máster de Ingeniería informática en la Universidad de Jaén.
 
 ## Estructura
 
@@ -11,7 +11,7 @@ El presente repositorio contiene el código fuente del TFM titulado "Desarrollo 
     - `babel.config.js`, `package.json`, `yarn.lock`, `assets/`: configuración y recursos de la app.
   - `llm_agent/` Backend del sistema (Python + FastAPI + Ngrok).
     - `agent.py`: implementa un agente conversacional con LangGraph y clasificación de consultas.
-    - `server.py`: API con transcripción de audio mediante Whisper, generación de respuestas y text-to-speech mediante Edge-TTS.
+    - `backend.py`: API con transcripción de audio mediante Whisper, generación de respuestas y text-to-speech mediante Edge-TTS.
     - `llm_api.py`: cliente para acceder al LLM alojado en un servidor externo.
     - `tools.py`: definición de herramientas de recuperación con FAISS y reranking.
     - `storage/`: contiene el índice FAISS utilizado para RAG.
@@ -92,13 +92,7 @@ npx expo start
 
 ```bash
 cd prototype/llm_agent
-uvicorn server:MyServer.app --host 0.0.0.0 --port 5000
-```
-
-O si usas pyngrok dentro del script:
-
-```bash
-python server.py  # abrirá automáticamente un túnel ngrok
+python backend.py  # abrirá automáticamente un túnel ngrok
 ```
 
 ### Ejecutar cliente
